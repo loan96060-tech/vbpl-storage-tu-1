@@ -1,0 +1,644 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff36\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Helvetica;}
+{\f5\fmodern\fcharset0\fprq1{\*\panose 02070409020205020404}Courier;}{\f6\froman\fcharset0\fprq2{\*\panose 02020603040505020304}Tms Rmn{\*\falt Times New Roman};}{\f7\fswiss\fcharset0\fprq2{\*\panose 020b0604020202030204}Helv;}
+{\f8\froman\fcharset0\fprq2{\*\panose 02040503060506020304}New York;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f11\fmodern\fcharset128\fprq1{\*\panose 02020609040205080304}MS Mincho{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}{\f12\froman\fcharset129\fprq2{\*\panose 02030600000101010101}Batang{\*\falt \'b9\'d9\'c5\'c1};}
+{\f13\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}SimSun{\*\falt \'cb\'ce\'cc\'e5};}{\f14\fnil\fcharset136\fprq2{\*\panose 02010601000101010101}PMingLiU{\*\falt \'b7\'73\'b2\'d3\'a9\'fa\'c5\'e9};}
+{\f15\fmodern\fcharset128\fprq1{\*\panose 020b0609070205080204}MS Gothic{\*\falt \'82\'6c\'82\'72 \'83\'53\'83\'56\'83\'62\'83\'4e};}{\f16\fmodern\fcharset129\fprq1{\*\panose 020b0600000101010101}Dotum{\*\falt \'b5\'b8\'bf\'f2};}
+{\f17\fmodern\fcharset134\fprq1{\*\panose 02010600030101010101}SimHei{\*\falt \'ba\'da\'cc\'e5};}{\f18\fmodern\fcharset136\fprq1{\*\panose 02010609000101010101}MingLiU{\*\falt \'b2\'d3\'a9\'fa\'c5\'e9};}
+{\f19\froman\fcharset128\fprq1{\*\panose 02020609040305080305}Mincho{\*\falt \'96\'be\'92\'a9};}{\f20\froman\fcharset129\fprq1{\*\panose 020b0600000101010101}Gulim{\*\falt \'b1\'bc\'b8\'b2};}
+{\f21\froman\fcharset0\fprq2{\*\panose 02040604050505020304}Century;}{\f22\froman\fcharset222\fprq2{\*\panose 02020603050405020304}Angsana New;}{\f23\froman\fcharset222\fprq2{\*\panose 020b0304020202020204}Cordia New;}
+{\f24\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Mangal;}{\f25\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Latha;}{\f26\froman\fcharset0\fprq2{\*\panose 010a0502050306030303}Sylfaen;}
+{\f27\froman\fcharset1\fprq2{\*\panose 00000400000000000000}Vrinda;}{\f28\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Raavi;}{\f29\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Shruti;}
+{\f30\froman\fcharset1\fprq2{\*\panose 00000400000000000000}Sendnya;}{\f31\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Gautami;}{\f32\fnil\fcharset0\fprq2{\*\panose 00000400000000000000}Tunga;}
+{\f33\froman\fcharset1\fprq2{\*\panose 00000000000000000000}Estrangella Edessa;}{\f34\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}Arial Unicode MS;}{\f35\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}
+{\f36\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTime;}{\f37\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTimeH;}{\f38\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}VnPalatino;}
+{\f39\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}VnPalatinoU;}{\f40\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCentury SchoolbookH;}{\f41\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnFreeH;}
+{\f42\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCentury Schoolbook;}{\f43\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VnCentury Schoolbook{\*\falt .VnCentury Schoolbook};}
+{\f44\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}{\f45\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console;}{\f46\fswiss\fcharset0\fprq2{\*\panose 020b0602030504020204}Lucida Sans Unicode;}
+{\f47\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f48\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f49\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}
+{\f50\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f51\froman\fcharset0\fprq2{\*\panose 02040502050405020303}Georgia;}{\f52\fswiss\fcharset0\fprq2{\*\panose 020b0603020102020204}Franklin Gothic Medium;}
+{\f53\froman\fcharset0\fprq2{\*\panose 02040502050505030304}Palatino Linotype;}{\f54\fswiss\fcharset0\fprq2{\*\panose 020b0603020202020204}Trebuchet MS;}{\f55\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}
+{\f56\fscript\fcharset0\fprq2 Estrangelo Edessa;}{\f57\fnil\fcharset0\fprq2 MV Boli;}{\f58\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Microsoft Sans Serif;}{\f59\fswiss\fcharset0\fprq2{\*\panose 020b0506020202030204}Arial Narrow;}
+{\f60\fswiss\fcharset128\fprq2{\*\panose 020b0604020202020204}@Arial Unicode MS;}{\f61\froman\fcharset129\fprq2{\*\panose 02030600000101010101}@Batang;}{\f62\froman\fcharset0\fprq2{\*\panose 02040602050305030304}Book Antiqua;}
+{\f63\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f64\fswiss\fcharset0\fprq2{\*\panose 020b0502020202020204}Century Gothic;}{\f65\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}
+{\f66\fswiss\fcharset0\fprq2{\*\panose 020b0706040902060204}Haettenschweiler;}{\f67\fmodern\fcharset128\fprq1{\*\panose 02020609040205080304}@MS Mincho;}{\f68\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MS Outlook;}
+{\f69\fscript\fcharset0\fprq2{\*\panose 03010101010201010101}Monotype Corsiva;}{\f70\fnil\fcharset134\fprq2{\*\panose 02010600030101010101}@SimSun;}{\f71\froman\fcharset2\fprq2{\*\panose 05020102010507070707}Wingdings 2;}
+{\f72\froman\fcharset2\fprq2{\*\panose 05040102010807070707}Wingdings 3;}{\f73\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana Ref;}{\f74\fmodern\fcharset134\fprq1{\*\panose 02010609030101010101}MS Song;}
+{\f75\fmodern\fcharset134\fprq1{\*\panose 02010609030101010101}@MS Song;}{\f76\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArial Narrow;}{\f77\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.Vn3DH;}
+{\f78\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArabia;}{\f79\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArabiaH;}{\f80\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArial;}
+{\f81\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArial NarrowH;}{\f82\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnArialH;}{\f83\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnAristote;}
+{\f84\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnAristoteH;}{\f85\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnAvant;}{\f86\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnAvantH;}
+{\f87\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}.VnBahamasB;}{\f88\fswiss\fcharset0\fprq2{\*\panose 020be200000000000000}.VnBahamasBH;}{\f89\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnBlack;}
+{\f90\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnBlackH;}{\f91\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnBodoni;}{\f92\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnBodoniH;}
+{\f93\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnBook-Antiqua;}{\f94\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnBook-AntiquaH;}{\f95\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnClarendon;}
+{\f96\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnClarendonH;}{\f97\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCommercial Script;}{\f98\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCommercial ScriptH;}
+{\f99\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCooper;}{\f100\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCooperH;}{\f101\froman\fcharset0\fprq2{\*\panose 02027200000000000000}.VnCourier New;}
+{\f102\froman\fcharset0\fprq2{\*\panose 02027200000000000000}.VnCourier NewH;}{\f103\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnCourier;}{\f104\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnExotic;}
+{\f105\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnExoticH;}{\f106\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnFree;}{\f107\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnGothic;}
+{\f108\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnGothicH;}{\f109\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnHelvetIns;}{\f110\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnHelvetInsH;}
+{\f111\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnKoala;}{\f112\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnKoalaH;}{\f113\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnLincoln;}
+{\f114\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnLincolnH;}{\f115\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnLinus;}{\f116\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnLinusH;}
+{\f117\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnLucida sans;}{\f118\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnMemorandum;}{\f119\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnMemorandumH;}
+{\f120\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnMonotype corsiva;}{\f121\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnMonotype corsivaH;}{\f122\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnMystical;}
+{\f123\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnMysticalH;}{\f124\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnPark;}{\f125\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnParkH;}
+{\f126\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnPresent;}{\f127\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnPresentH;}{\f128\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnRevue;}
+{\f129\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnRevueH;}{\f130\fdecor\fcharset0\fprq2{\*\panose 040b7200000000000000}.VnShelley Allegro;}{\f131\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnSouthern;}
+{\f132\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnSouthernH;}{\f133\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnStamp;}{\f134\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTeknical;}
+{\f135\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTeknicalH;}{\f136\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTifani Heavy;}{\f137\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTifani HeavyH;}
+{\f138\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnUniverse;}{\f139\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnUniverseH;}{\f140\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnVogue;}
+{\f141\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnVogueH;}{\f142\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Allegie;}{\f143\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Aptima;}
+{\f144\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Ariston;}{\f145\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Auchon;}{\f146\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Avo;}
+{\f147\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Aztek;}{\f148\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Bandit;}{\f149\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Bodon;}
+{\f150\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Book;}{\f151\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Broad;}{\f152\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Brush;}
+{\f153\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Centur;}{\f154\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Commerce;}{\f155\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Cooper;}
+{\f156\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Coronet;}{\f157\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Couri;}{\f158\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Dom;}
+{\f159\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Duff;}{\f160\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Dur;}{\f161\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Fato;}
+{\f162\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Franko;}{\f163\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Free;}{\f164\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Garam;}
+{\f165\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Goudy;}{\f166\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Helve;}{\f167\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Helve-Condense;}
+{\f168\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Hobo;}{\f169\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Jamai;}{\f170\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Juni;}
+{\f171\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Korin;}{\f172\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Kun;}{\f173\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}VNI-Linus;}
+{\f174\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Lithos;}{\f175\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Maria;}{\f176\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Meli;}
+{\f177\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Murray;}{\f178\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Palatin;}{\f179\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Park;}
+{\f180\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Revue;}{\f181\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Script;}{\f182\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Silver;}
+{\f183\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Slogan;}{\f184\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Souvir;}{\f185\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Swiss-Condense;}
+{\f186\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Tekon;}{\f187\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Times;}{\f188\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Univer;}
+{\f189\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Vari;}{\f190\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}VNI-Zap;}{\f191\fswiss\fcharset162\fprq2{\*\panose 00000000000000000000}.VnTimeH Tur;}
+{\f192\froman\fcharset238\fprq2 Times New Roman CE;}{\f193\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f195\froman\fcharset161\fprq2 Times New Roman Greek;}{\f196\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f197\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f198\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f199\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f200\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f202\fswiss\fcharset238\fprq2 Arial CE;}{\f203\fswiss\fcharset204\fprq2 Arial Cyr;}{\f205\fswiss\fcharset161\fprq2 Arial Greek;}{\f206\fswiss\fcharset162\fprq2 Arial Tur;}{\f207\fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f208\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f209\fswiss\fcharset186\fprq2 Arial Baltic;}{\f210\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f212\fmodern\fcharset238\fprq1 Courier New CE;}{\f213\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f215\fmodern\fcharset161\fprq1 Courier New Greek;}{\f216\fmodern\fcharset162\fprq1 Courier New Tur;}{\f217\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f218\fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f219\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f220\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f304\fmodern\fcharset0\fprq1 MS Mincho Western{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}
+{\f302\fmodern\fcharset238\fprq1 MS Mincho CE{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}{\f303\fmodern\fcharset204\fprq1 MS Mincho Cyr{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}
+{\f305\fmodern\fcharset161\fprq1 MS Mincho Greek{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}{\f306\fmodern\fcharset162\fprq1 MS Mincho Tur{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}
+{\f309\fmodern\fcharset186\fprq1 MS Mincho Baltic{\*\falt \'82\'6c\'82\'72 \'96\'be\'92\'a9};}{\f314\froman\fcharset0\fprq2 Batang Western{\*\falt \'b9\'d9\'c5\'c1};}{\f312\froman\fcharset238\fprq2 Batang CE{\*\falt \'b9\'d9\'c5\'c1};}
+{\f313\froman\fcharset204\fprq2 Batang Cyr{\*\falt \'b9\'d9\'c5\'c1};}{\f315\froman\fcharset161\fprq2 Batang Greek{\*\falt \'b9\'d9\'c5\'c1};}{\f316\froman\fcharset162\fprq2 Batang Tur{\*\falt \'b9\'d9\'c5\'c1};}
+{\f319\froman\fcharset186\fprq2 Batang Baltic{\*\falt \'b9\'d9\'c5\'c1};}{\f324\fnil\fcharset0\fprq2 SimSun Western{\*\falt \'cb\'ce\'cc\'e5};}{\f402\froman\fcharset238\fprq2 Century CE;}{\f403\froman\fcharset204\fprq2 Century Cyr;}
+{\f405\froman\fcharset161\fprq2 Century Greek;}{\f406\froman\fcharset162\fprq2 Century Tur;}{\f409\froman\fcharset186\fprq2 Century Baltic;}{\f452\froman\fcharset238\fprq2 Sylfaen CE;}{\f453\froman\fcharset204\fprq2 Sylfaen Cyr;}
+{\f455\froman\fcharset161\fprq2 Sylfaen Greek;}{\f456\froman\fcharset162\fprq2 Sylfaen Tur;}{\f459\froman\fcharset186\fprq2 Sylfaen Baltic;}{\f534\fswiss\fcharset0\fprq2 Arial Unicode MS Western;}{\f532\fswiss\fcharset238\fprq2 Arial Unicode MS CE;}
+{\f533\fswiss\fcharset204\fprq2 Arial Unicode MS Cyr;}{\f535\fswiss\fcharset161\fprq2 Arial Unicode MS Greek;}{\f536\fswiss\fcharset162\fprq2 Arial Unicode MS Tur;}{\f537\fswiss\fcharset177\fprq2 Arial Unicode MS (Hebrew);}
+{\f538\fswiss\fcharset178\fprq2 Arial Unicode MS (Arabic);}{\f539\fswiss\fcharset186\fprq2 Arial Unicode MS Baltic;}{\f540\fswiss\fcharset163\fprq2 Arial Unicode MS (Vietnamese);}{\f541\fswiss\fcharset222\fprq2 Arial Unicode MS (Thai);}
+{\f542\fswiss\fcharset238\fprq2 Tahoma CE;}{\f543\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f545\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f546\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f547\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}
+{\f548\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f549\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f550\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f551\fswiss\fcharset222\fprq2 Tahoma (Thai);}{\f642\fmodern\fcharset238\fprq1 Lucida Console CE;}
+{\f643\fmodern\fcharset204\fprq1 Lucida Console Cyr;}{\f645\fmodern\fcharset161\fprq1 Lucida Console Greek;}{\f646\fmodern\fcharset162\fprq1 Lucida Console Tur;}{\f652\fswiss\fcharset238\fprq2 Lucida Sans Unicode CE;}
+{\f653\fswiss\fcharset204\fprq2 Lucida Sans Unicode Cyr;}{\f655\fswiss\fcharset161\fprq2 Lucida Sans Unicode Greek;}{\f656\fswiss\fcharset162\fprq2 Lucida Sans Unicode Tur;}{\f657\fswiss\fcharset177\fprq2 Lucida Sans Unicode (Hebrew);}
+{\f662\fswiss\fcharset238\fprq2 Verdana CE;}{\f663\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f665\fswiss\fcharset161\fprq2 Verdana Greek;}{\f666\fswiss\fcharset162\fprq2 Verdana Tur;}{\f669\fswiss\fcharset186\fprq2 Verdana Baltic;}
+{\f670\fswiss\fcharset163\fprq2 Verdana (Vietnamese);}{\f672\fswiss\fcharset238\fprq2 Arial Black CE;}{\f673\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f675\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f676\fswiss\fcharset162\fprq2 Arial Black Tur;}
+{\f679\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f682\fscript\fcharset238\fprq2 Comic Sans MS CE;}{\f683\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f685\fscript\fcharset161\fprq2 Comic Sans MS Greek;}
+{\f686\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f689\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}{\f692\fswiss\fcharset238\fprq2 Impact CE;}{\f693\fswiss\fcharset204\fprq2 Impact Cyr;}{\f695\fswiss\fcharset161\fprq2 Impact Greek;}
+{\f696\fswiss\fcharset162\fprq2 Impact Tur;}{\f699\fswiss\fcharset186\fprq2 Impact Baltic;}{\f702\froman\fcharset238\fprq2 Georgia CE;}{\f703\froman\fcharset204\fprq2 Georgia Cyr;}{\f705\froman\fcharset161\fprq2 Georgia Greek;}
+{\f706\froman\fcharset162\fprq2 Georgia Tur;}{\f709\froman\fcharset186\fprq2 Georgia Baltic;}{\f712\fswiss\fcharset238\fprq2 Franklin Gothic Medium CE;}{\f713\fswiss\fcharset204\fprq2 Franklin Gothic Medium Cyr;}
+{\f715\fswiss\fcharset161\fprq2 Franklin Gothic Medium Greek;}{\f716\fswiss\fcharset162\fprq2 Franklin Gothic Medium Tur;}{\f719\fswiss\fcharset186\fprq2 Franklin Gothic Medium Baltic;}{\f722\froman\fcharset238\fprq2 Palatino Linotype CE;}
+{\f723\froman\fcharset204\fprq2 Palatino Linotype Cyr;}{\f725\froman\fcharset161\fprq2 Palatino Linotype Greek;}{\f726\froman\fcharset162\fprq2 Palatino Linotype Tur;}{\f729\froman\fcharset186\fprq2 Palatino Linotype Baltic;}
+{\f730\froman\fcharset163\fprq2 Palatino Linotype (Vietnamese);}{\f732\fswiss\fcharset238\fprq2 Trebuchet MS CE;}{\f733\fswiss\fcharset204\fprq2 Trebuchet MS Cyr;}{\f735\fswiss\fcharset161\fprq2 Trebuchet MS Greek;}
+{\f736\fswiss\fcharset162\fprq2 Trebuchet MS Tur;}{\f739\fswiss\fcharset186\fprq2 Trebuchet MS Baltic;}{\f772\fswiss\fcharset238\fprq2 Microsoft Sans Serif CE;}{\f773\fswiss\fcharset204\fprq2 Microsoft Sans Serif Cyr;}
+{\f775\fswiss\fcharset161\fprq2 Microsoft Sans Serif Greek;}{\f776\fswiss\fcharset162\fprq2 Microsoft Sans Serif Tur;}{\f777\fswiss\fcharset177\fprq2 Microsoft Sans Serif (Hebrew);}{\f778\fswiss\fcharset178\fprq2 Microsoft Sans Serif (Arabic);}
+{\f779\fswiss\fcharset186\fprq2 Microsoft Sans Serif Baltic;}{\f780\fswiss\fcharset163\fprq2 Microsoft Sans Serif (Vietnamese);}{\f781\fswiss\fcharset222\fprq2 Microsoft Sans Serif (Thai);}{\f782\fswiss\fcharset238\fprq2 Arial Narrow CE;}
+{\f783\fswiss\fcharset204\fprq2 Arial Narrow Cyr;}{\f785\fswiss\fcharset161\fprq2 Arial Narrow Greek;}{\f786\fswiss\fcharset162\fprq2 Arial Narrow Tur;}{\f789\fswiss\fcharset186\fprq2 Arial Narrow Baltic;}
+{\f794\fswiss\fcharset0\fprq2 @Arial Unicode MS Western;}{\f792\fswiss\fcharset238\fprq2 @Arial Unicode MS CE;}{\f793\fswiss\fcharset204\fprq2 @Arial Unicode MS Cyr;}{\f795\fswiss\fcharset161\fprq2 @Arial Unicode MS Greek;}
+{\f796\fswiss\fcharset162\fprq2 @Arial Unicode MS Tur;}{\f797\fswiss\fcharset177\fprq2 @Arial Unicode MS (Hebrew);}{\f798\fswiss\fcharset178\fprq2 @Arial Unicode MS (Arabic);}{\f799\fswiss\fcharset186\fprq2 @Arial Unicode MS Baltic;}
+{\f800\fswiss\fcharset163\fprq2 @Arial Unicode MS (Vietnamese);}{\f801\fswiss\fcharset222\fprq2 @Arial Unicode MS (Thai);}{\f804\froman\fcharset0\fprq2 @Batang Western;}{\f802\froman\fcharset238\fprq2 @Batang CE;}
+{\f803\froman\fcharset204\fprq2 @Batang Cyr;}{\f805\froman\fcharset161\fprq2 @Batang Greek;}{\f806\froman\fcharset162\fprq2 @Batang Tur;}{\f809\froman\fcharset186\fprq2 @Batang Baltic;}{\f812\froman\fcharset238\fprq2 Book Antiqua CE;}
+{\f813\froman\fcharset204\fprq2 Book Antiqua Cyr;}{\f815\froman\fcharset161\fprq2 Book Antiqua Greek;}{\f816\froman\fcharset162\fprq2 Book Antiqua Tur;}{\f819\froman\fcharset186\fprq2 Book Antiqua Baltic;}
+{\f822\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f823\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f825\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f826\froman\fcharset162\fprq2 Bookman Old Style Tur;}
+{\f829\froman\fcharset186\fprq2 Bookman Old Style Baltic;}{\f832\fswiss\fcharset238\fprq2 Century Gothic CE;}{\f833\fswiss\fcharset204\fprq2 Century Gothic Cyr;}{\f835\fswiss\fcharset161\fprq2 Century Gothic Greek;}
+{\f836\fswiss\fcharset162\fprq2 Century Gothic Tur;}{\f839\fswiss\fcharset186\fprq2 Century Gothic Baltic;}{\f842\froman\fcharset238\fprq2 Garamond CE;}{\f843\froman\fcharset204\fprq2 Garamond Cyr;}{\f845\froman\fcharset161\fprq2 Garamond Greek;}
+{\f846\froman\fcharset162\fprq2 Garamond Tur;}{\f849\froman\fcharset186\fprq2 Garamond Baltic;}{\f852\fswiss\fcharset238\fprq2 Haettenschweiler CE;}{\f853\fswiss\fcharset204\fprq2 Haettenschweiler Cyr;}
+{\f855\fswiss\fcharset161\fprq2 Haettenschweiler Greek;}{\f856\fswiss\fcharset162\fprq2 Haettenschweiler Tur;}{\f859\fswiss\fcharset186\fprq2 Haettenschweiler Baltic;}{\f864\fmodern\fcharset0\fprq1 @MS Mincho Western;}
+{\f862\fmodern\fcharset238\fprq1 @MS Mincho CE;}{\f863\fmodern\fcharset204\fprq1 @MS Mincho Cyr;}{\f865\fmodern\fcharset161\fprq1 @MS Mincho Greek;}{\f866\fmodern\fcharset162\fprq1 @MS Mincho Tur;}{\f869\fmodern\fcharset186\fprq1 @MS Mincho Baltic;}
+{\f882\fscript\fcharset238\fprq2 Monotype Corsiva CE;}{\f883\fscript\fcharset204\fprq2 Monotype Corsiva Cyr;}{\f885\fscript\fcharset161\fprq2 Monotype Corsiva Greek;}{\f886\fscript\fcharset162\fprq2 Monotype Corsiva Tur;}
+{\f889\fscript\fcharset186\fprq2 Monotype Corsiva Baltic;}{\f894\fnil\fcharset0\fprq2 @SimSun Western;}{\f922\fswiss\fcharset238\fprq2 Verdana Ref CE;}{\f923\fswiss\fcharset204\fprq2 Verdana Ref Cyr;}{\f925\fswiss\fcharset161\fprq2 Verdana Ref Greek;}
+{\f926\fswiss\fcharset162\fprq2 Verdana Ref Tur;}{\f929\fswiss\fcharset186\fprq2 Verdana Ref Baltic;}{\f930\fswiss\fcharset163\fprq2 Verdana Ref (Vietnamese);}{\f996\fswiss\fcharset162\fprq2 .VnArial Tur;}{\f1332\fswiss\fcharset238\fprq2 .VnLincolnH CE;}
+{\f1336\fswiss\fcharset162\fprq2 .VnLincolnH Tur;}{\f1492\fdecor\fcharset238\fprq2 .VnShelley Allegro CE;}{\f1496\fdecor\fcharset162\fprq2 .VnShelley Allegro Tur;}{\f1832\fnil\fcharset238\fprq2 VNI-Garam CE;}{\f1836\fnil\fcharset162\fprq2 VNI-Garam Tur;}
+{\f1922\fswiss\fcharset238\fprq2 VNI-Linus CE;}{\f1926\fswiss\fcharset162\fprq2 VNI-Linus Tur;}{\f2062\fnil\fcharset238\fprq2 VNI-Times CE;}{\f2066\fnil\fcharset162\fprq2 VNI-Times Tur;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red255\green255\blue255;}{\stylesheet{\qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f36\fs26\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 \snext0 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\qj \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 
+\f36\fs26\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 \sbasedon0 \snext15 \styrsid9110989 header;}{\s16\qj \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs26\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 
+\sbasedon0 \snext16 \styrsid9110989 footer;}}{\*\revtbl {Unknown;}}{\*\rsidtbl \rsid9110989\rsid14249916}{\*\generator Microsoft Word 10.0.2627;}{\info{\title B\'e9 T\'b5i ch\'ddnh}{\author Vu Anh Hong}{\operator SYSTEM}{\creatim\yr2004\mo12\dy23\hr3\min34}
+{\revtim\yr2004\mo12\dy23\hr3\min34}{\version2}{\edmins0}{\nofpages4}{\nofwords1861}{\nofchars10614}{\*\company TTDL.BTH.BTC}{\nofcharsws12451}{\vern16437}}\margl1170\margr0 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot9110989 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\header \pard\plain \s15\qj \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 
+\f36\fs26\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\insrsid9110989 
+\par }}{\footer \pard\plain \s16\qj \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs26\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\insrsid9110989 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qj \li270\ri0\sl240\slmult0\widctlpar\faauto\adjustright\rin0\lin270\itap0 
+\f36\fs26\lang3081\langfe1033\cgrid\langnp3081\langfenp1033 {\f0\fs24\cgrid0\insrsid9110989\charrsid9110989 
+\par }\trowd \irow0\irowband0\ts11\trgaph40\trleft0\trftsWidth1\trpaddl40\trpaddr40\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4193\clshdrawnil \cellx4193\clvertalt
+\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6748\clshdrawnil \cellx10941\pard \qc \li40\ri40\sl240\slmult0\keep\keepn\widctlpar\intbl\faauto\adjustright\rin40\lin40 {
+\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 B\u7896\'3f T\'c0I CH\'cdNH
+\par }\pard \qc \li40\ri40\sl240\slmult0\keep\widctlpar\intbl\faauto\adjustright\rin40\lin40 {\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 S\u7889\'3f : 207 tc/q}{\f192\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 /tCNH\cell }\pard \qc \li40\ri40\sl240\slmult0\keep\keepn\widctlpar\intbl\faauto\adjustright\rin40\lin40 {\b\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 C\u7896\'3fNG HO\'c0 X\'c3 H\u7896\'3fI CH
+\u7910\'3f NGH\u296\'49A VI\u7878\'3fT NAM
+\par }\pard \qc \li40\ri40\sl240\slmult0\keep\widctlpar\intbl\faauto\adjustright\rin40\lin40 {\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7897\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c l\u7853\'3fp - t\u7921\'3f do - h\u7841\'3fnh ph\'fac
+
+\par }{\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 ------------------------------\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow0\irowband0
+\ts11\trgaph40\trleft0\trftsWidth1\trpaddl40\trpaddr40\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4193\clshdrawnil \cellx4193\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6748\clshdrawnil \cellx10941\row }\pard \qj \li40\ri40\sl240\slmult0\keep\keepn\widctlpar\intbl\faauto\adjustright\rin40\lin40 {\f0\fs24\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\cell 
+\par }\pard \qc \li40\ri40\sl240\slmult0\keep\keepn\widctlpar\intbl\faauto\adjustright\rin40\lin40 {\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 H\'e0 n\u7897\'3fi ng\'e0y 21 th\'e1ng 3 n}{\i\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{
+\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 m 1995\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow1\irowband1\lastrow 
+\ts11\trgaph40\trleft0\trftsWidth1\trpaddl40\trpaddr40\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4193\clshdrawnil \cellx4193\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6748\clshdrawnil \cellx10941\row }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li270\ri0\sl240\slmult0\widctlpar\tx0\faauto\adjustright\rin0\lin270\itap0 {\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qc \li270\ri0\sl240\slmult0\widctlpar\faauto\adjustright\rin0\lin270\itap0 {\b\f0\fs40\cf2\cgrid0\insrsid9110989\charrsid9110989 QUY\u7870\'3fT }{\b\f192\fs40\cf2\cgrid0\insrsid9110989\charrsid9110989 \'d0}{
+\b\f0\fs40\cf2\cgrid0\insrsid9110989\charrsid9110989 \u7882\'3fNH
+\par }\pard \qc \li270\ri0\sl240\slmult0\widctlpar\tx0\tx270\faauto\adjustright\rin0\lin270\itap0 {\f0\fs28\cf2\cgrid0\insrsid9110989\charrsid9110989 V/V BAN H\'c0NH QUY CH\u7870\'3f T\u7840\'3fM TH\u7900\'3fI V\u7872\'3f T\u7892\'3f CH\u7912\'3fC PH\'c1T H
+\'c0NH TH\'cd }{\f192\fs28\cf2\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f0\fs28\cf2\cgrid0\insrsid9110989\charrsid9110989 I\u7874\'3fM X\u7892\'3f S\u7888\'3f L\'d4T\'d4
+\par }\pard \qj \li0\ri0\sl240\slmult0\widctlpar\tx0\tx2160\faauto\adjustright\rin0\lin0\itap0 {\f0\fs28\cf2\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li990\ri1727\sl240\slmult0\widctlpar\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin1727\lin990\itap0 {\f0\fs28\cf2\cgrid0\insrsid9110989\charrsid9110989 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab C}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n c\u7913\'3f Ngh\u7883\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh s\u7889\'3f 15/CP ng\'e0y 02/3/1993 c\u7911\'3fa Ch\'ednh ph\u7911\'3f v\u7873\'3f nhi\u7879\'3fm v\u7909\'3f, quy\u7873\'3fn h\u7841\'3fn v\'e0 tr\'e1ch nhi\u7879\'3fm qu\u7843\'3fn l\'fd Nh\'e0
+ n}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c c\u7911\'3fa B\u7897\'3f, c}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+ quan ngang B\u7897\'3f;
+\par \tab C}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n c\u7913\'3f Ngh\u7883\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh s
+\u7889\'3f 178/CP ng\'e0y 28/10/1994 c\u7911\'3fa Ch\'ednh ph\u7911\'3f v\u7873\'3f nhi\u7879\'3fm v\u7909\'3f, quy\u7873\'3fn h\u7841\'3fn v\'e0 t\u7893\'3f ch\u7913\'3fc b\u7897\'3f m\'e1y B\u7897\'3f T\'e0i ch\'ednh;
+\par \tab Th\u7921\'3fc hi\u7879\'3fn ch\u7911\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng c\u7911\'3fa Th\u7911\'3f t}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng Ch\'ednh ph\u7911\'3f cho ph\'e9p th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f \'93
+ L\'f4t\'f4 \'93 ( C\'f4ng v}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n s\u7889\'3f 3296/KTTH ng\'e0y 6/7/1993 c\u7911\'3fa V}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n ph\'f2ng Ch\'ednh ph\u7911\'3f );
+\par \tab Theo }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f ngh\u7883\'3f c\u7911\'3fa V\u7909\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng V\u7909\'3f T\'e0i ch\'ednh c\'e1c Ng\'e2n h\'e0ng v\'e0 T\u7893\'3f  ch\u7913\'3fc T\'e0i ch\'ednh.
+\par 
+\par }\trowd \irow0\irowband0\lastrow \ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11358\clshdrawnil \cellx11358
+\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 QUY\u7870\'3fT }{
+\b\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7882\'3fNH\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\trowd \irow0\irowband0\lastrow \ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11358\clshdrawnil \cellx11358
+\row }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li990\ri1727\sl240\slmult0\widctlpar\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin1727\lin990\itap0 {\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab }{\b\i\f192\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\b\i\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7873\'3fu 1}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 : Ban h\'e0nh k\'e8m
+ theo quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh n\'e0y quy ch\u7871\'3f t\u7841\'3fm th\u7901\'3fi v\u7873\'3f t\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh th\'ed }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm x\u7893\'3f s\u7889\'3f L\'f4t\'f4 \'e1p d\u7909\'3fng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fi v\u7899\'3fi c\'e1c t\u7881\'3fnh, th\'e0nh ph\u7889\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e9p ph\'e1t h\'e0nh theo quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa B\u7897\'3f tr}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng B\u7897\'3f T\'e0i ch\'ednh.       
+\par 
+\par \tab }{\b\i\f192\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\b\i\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7873\'3fu 2}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 :  Quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0
+}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh n\'e0y c\'f3 hi\u7879\'3fu l\u7921\'3fc thi h\'e0nh k\u7875\'3f t\u7915\'3f ng\'e0y k\'fd. C\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e2y tr\'e1i v\u7899\'3fi quy ch\u7871\'3f ban h\'e0nh theo quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh n\'e0y }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3fu b\'e3i b\u7887\'3f.
+\par \tab C\'e1c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng ch\'ed V\u7909\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng V\u7909\'3f T\'e0i ch\'ednh c\'e1c Ng\'e2n h\'e0ng v\'e0 T\u7893\'3f ch\u7913\'3fc T\'e0i ch\'ednh, T\u7893\'3fng c\u7909\'3fc tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng T\u7893\'3fng c\u7909\'3fc Qu\u7843\'3fn l\'fd v\u7889\'3fn v\'e0 t\'e0i s\u7843\'3fn Nh\'e0 n}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+c t\u7841\'3fi doanh nghi\u7879\'3fp, T\u7893\'3fng c\u7909\'3fc tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng T\u7893\'3fng c\u7909\'3fc thu\u7871\'3f, Ch\'e1nh V}{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n ph\'f2ng, Th\u7911\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng c\'e1c }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n v\u7883\'3f c\'f3 li\'ean quan thu\u7897\'3fc B\u7897\'3f, Gi\'e1m }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fc S\u7903\'3f T\'e0i ch\'ednh - V\u7853\'3ft gi\'e1  v\'e0 Gi\'e1m }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fc C\'f4ng ty XSKT }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e9p ph
+\'e1t h\'e0nh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm x\u7893\'3f s\u7889\'3f L\'f4t\'f4 ch\u7883\'3fu tr\'e1ch nhi\u7879\'3fm thi h\'e0nh quy\u7871\'3ft }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh n\'e0y./.
+\par }\trowd \irow0\irowband0\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt
+\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell KT/ B\u7896\'3f TR}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\'dd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7902\'3fNG B\u7896\'3f T\'c0I CH\'cdNH\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow0\irowband0
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\i\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 N}{\b\i\f200\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{
+\b\i\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 i nh\u7853\'3fn:\cell }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 TH\u7912\'3f TR}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'dd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7902\'3fNG
+\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow1\irowband1\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt
+\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil 
+\cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 - VPCP ( 
+}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f b\'e1o c\'e1o )\cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow2\irowband2\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 - UBND t\u7881\'3fnh     c\'e1c t\u7881\'3fnh, TP\cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow3\irowband3\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 - S\u7903\'3f
+ TC-VG       }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e9p th\'ed\cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow4\irowband4\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 - Cty SXKT       }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm L\'f4t\'f4\cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow5\irowband5\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 - TCT, TCDN\cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow6\irowband6\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 - L}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u: VP, TCNH\cell }{\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 Nguy\u7877\'3fn Sinh H\'f9ng\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow7\irowband7\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 B\u7896\'3f T\'c0I C
+H\'cdNH\cell }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 C\u7896\'3fN
+G HO\'c0 X\'c3 H\u7896\'3fI CH\u7910\'3f NGH\u296\'49A VI\u7878\'3fT NAM\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow8\irowband8
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7897\'3f}{\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c l
+\u7853\'3fp - T\u7921\'3f do - H\u7841\'3fnh ph\'fac\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow9\irowband9
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ----------------o0o----------------\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow10\irowband10\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt
+\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil 
+\cellx11487\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\cell }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 H\'e0 n\u7897
+\'3fi, ng\'e0y 21 th\'e1ng 3 n}{\b\i\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 m 1995\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow11\irowband11\lastrow \ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth6093\clshdrawnil \cellx6093\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5394\clshdrawnil \cellx11487\row }\pard 
+\qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li990\ri1727\sl240\slmult0\widctlpar\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin1727\lin990\itap0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\trowd \irow0\irowband0\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\pard 
+\qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 QUY CH\u7870\'3f T\u7840\'3fM TH
+\u7900\'3fI \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow0\irowband0\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 
+\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\row }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 V\u7872\'3f T\u7892\'3f CH\u7912\'3fC PH\'c1T H\'c0NH X\u7892\'3f S\u7888
+\'3f \'93L\'d4T\'d4\'94 T\u7840\'3fI C\'c1C T\u7880\'3fNH,\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow1\irowband1
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\row }\pard 
+\qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 TH\'c0NH PH\u7888\'3f }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'dd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7906\'3fC PH\'c9P PH\'c1T H\'c0NH THEO QUY\u7870\'3fT }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7882\'3fNH\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\trowd \irow2\irowband2\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\row }\pard 
+\qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 C\u7910\'3fA B\u7896\'3f TR}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'dd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7902\'3fNG B\u7896\'3f T\'c0I CH\'cdNH\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow3\irowband3\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\row }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {
+\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ( Ban h\'e0nh k\'e8m theo Quy\u7871\'3ft }{\b\i\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh s\u7889\'3f 207 TC/Q}{
+\b\i\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 /TCNH\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\trowd \irow4\irowband4\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\row }\pard 
+\qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng\'e0y 21/3/1995 c\u7911
+\'3fa B\u7897\'3f T\'e0i ch\'ednh )\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow5\irowband5\lastrow 
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth11013\clshdrawnil \cellx11013\row }\pard 
+\qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li990\ri1727\sl240\slmult0\widctlpar\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin1727\lin990\itap0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab X\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 l\'e0 m\u7897\'3ft lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f ki\u7871\'3fn thi\u7871\'3ft m\'e0 ng}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd
+\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i mua }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c quy\u7873\'3fn l\u7921
+\'3fa ch\u7885\'3fn nh\u7919\'3fng s\u7889\'3f m\'e0 m\'ecnh }{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 a th\'edch v\'e0 c\'f3 quay s\u7889\'3f m\u7903\'3f th}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng theo }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh k\u7923\'3f. }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7875\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm b\u7843\'3fo thi h\'e0nh }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang c\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa Nh\'e0 n}
+{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c v\u7873\'3f th\u7889\'3fng nh\u7845\'3ft qu\u7843\'3fn l\'fd ph\'e1t h\'e0nh XSKT v\'e0 lu\u7853\'3ft ph\'e1p hi\u7879\'3fn h\'e0nh, g\'f3p ph
+\u7847\'3fn khai th\'e1c th\'eam ngu\u7891\'3fn thu cho NSNN v\'e0 h\u7841\'3fn ch\u7871\'3f t\u7879\'3f n\u7841\'3fn c\u7901\'3f b\u7841\'3fc, s\u7889\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f trong x\'e3 h\u7897\'3fi. Sau m\u7897\'3ft th\u7901\'3fi gian ph\'e1t h\'e0nh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3f
+m v\'e0 tham kh\u7843\'3fo \'fd ki\u7871\'3fn c\u7911\'3fa c\'e1c t\u7881\'3fnh, th\'e0nh ph\u7889\'3f B\u7897\'3f T\'e0i ch\'ednh ban h\'e0nh quy ch\u7871\'3f t\u7841\'3fm th\u7901\'3fi v\u7873\'3f t\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh th\'ed }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f nh\u7919\'3fng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fa ph}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e9p l\'e0m th\'ed }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm t\u7893\'3f ch\u7913\'3fc th\u7921\'3fc hi\u7879\'3fn.
+\par 
+\par \tab }{\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 I. NH\u7918\'3fNG QUY }{\f192\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7882\'3fNH CHUNG
+\par 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab - Quy ch\u7871\'3f ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93 L\'f4t\'f4\'94 n\'e0y }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907
+\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c th\u7921\'3fc hi\u7879\'3fn th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm \u7903\'3f c\'e1c t\u7881\'3fnh, th\'e0nh ph\u7889
+\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e9p ph\'e1t h\'e0nh theo quy\u7871\'3ft }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa B\u7897\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+ng B\u7897\'3f T\'e0i ch\'ednh.
+\par 
+\par \tab - Vi\u7879\'3fc ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93 L\'f4t\'f4\'94 ph\u7843\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm b\u7843\'3fo th\u7921\'3fc hi\u7879\'3fn }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang c\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa Nh\'e0 n}
+{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c v\u7873\'3f th\u7889\'3fng nh\u7845\'3ft qu\u7843\'3fn l\'fd ph\'e1t h\'e0nh XSKT, c\'e1c lu\u7853\'3ft l\u7879\'3f hi\u7879\'3fn h\'e0nh v
+\'e0 c\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh trong quy ch\u7871\'3f n\'e0y.
+\par 
+\par \tab }{\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 II. NH\u7918\'3fNG QUY }{\f192\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7882\'3fNH C\u7908\'3f TH\u7874\'3f V\u7872\'3f PH\'c1T H\'c0NH V
+\'c0 QU\u7842\'3fN L\'dd X\u7892\'3f S\u7888\'3f \'93L\'d4T\'d4\'94
+\par 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab 1. T\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh
+\par 
+\par \tab a/ V\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94: C\'e1c C\'f4ng ty XSKT ch\u7883\'3fu tr\'e1ch nhi\u7879\'3fm in v\'e0 qu\u7843\'3fn l\'fd v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94. V\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843
+\'3fi b\u7843\'3fo }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e1p \u7913\'3fng }
+{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c nh\u7919\'3fng y\'eau c\u7847\'3fu sau:
+\par 
+\par \tab - V\'e9 ph\u7843\'3fi c\'f3 cu\u7889\'3fng ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u.
+\par 
+\par \tab - H\'ecnh th\u7913\'3fc }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n gi\u7843\'3fn, thu\u7853\'3fn ti\u7879\'3fn v\u7899\'3fi }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7911\'3f c\'e1c th\'f4ng tin cung c\u7845\'3fp cho ng}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i ch}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i khi mua v\'e9 v\'e0 c\'f3 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7911\'3f c\'e1c y\u7871\'3fu t\u7889\'3f c\u7847\'3fn thi\u7871\'3ft ph\u7909\'3fc v\u7909\'3f cho c\'f4ng t\'e1c qu\u7843\'3fn l\'fd.
+\par 
+\par \tab - Trong h}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng d\u7851\'3fn m\u7863\'3ft sau t\u7901\'3f v\'e9 ngo\'e0i nh\u7919\'3fng quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh th\'f4ng th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ph\u7843\'3fi ghi r\'f5 \'93m\u7885\'3fi sai s\'f3t, nh\u7847
+\'3fm l\u7851\'3fn khi ghi tr\'ean t\u7901\'3f v\'e9 kh\'f4ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang v\u7899\'3fi quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh, c\'f4ng ty kh\'f4ng ch\u7883\'3fu tr\'e1ch nhi\u7879\'3fm tr\u7843\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng\'94.
+
+\par 
+\par \tab b/ T\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh
+\par 
+\par \tab C\'e1c c\'f4ng ty XSKT ch\u7883\'3fu tr\'e1ch nhi\u7879\'3fm t\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 theo quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh sau:
+\par 
+\par \tab - X\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e1t h\'e0nh song song v\u7899\'3f
+i c\'e1c lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f kh\'e1c.
+\par 
+\par \tab - S\u7889\'3f l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng v\'e9 cho m\u7895\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7907\'3ft ph\'e1t h\'e0nh do c\'f4ng ty XSKT quy\u7871\'3ft  }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c}{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n c\u7913\'3f v\'e0o s\u7913\'3fc mua c\u7911\'3fa th\u7883\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng v\'e0 tr\'ecnh }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3f qu\u7843\'3fn l\'fd t\u7915\'3fng c\'f4ng ty.
+\par 
+\par \tab - Ph\u7841\'3fm vi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e1t h\'e0nh gi\u7899\'3fi h\u7841\'3fn trong }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fa b\'e0n h\'e0nh ch\'ednh }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fa ph}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng.
+\par 
+\par \tab - V\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 g\u7891\'3fm c\'e1c lo\u7841\'3fi c\'f3 gi\'e1 tr\u7883\'3f t\u7915\'3f 500 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7871\'3fn 5.000 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng cho m\u7895\'3fi l
+\u7847\'3fn d\u7921\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng. Tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng h\u7907\'3fp v\'e9 \'e1p d\u7909\'3fng cho nhi\u7873\'3fu l\u7847\'3fn d\u7921\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng th\'ec
+ t\u7893\'3fng gi\'e1 tr\u7883\'3f ghi tr\'ean t\u7915\'3fng t\u7901\'3f v\'e9 t\u7889\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 a kh\'f4ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c v}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 t qu\'e1 22.000 }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng.
+\par 
+\par \tab - }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7875\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  v\u7915\'3fa }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n gi\u7843\'3fn, d\u7877\'3f ch}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i, v\u7915\'3fa ph\'f9 h\u7907\'3fp v\u7899\'3fi t\'e2m l\'fd th\u7883\'3f
+ hi\u7871\'3fu c\u7911\'3fa nh\'e2n d\'e2n, v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 b\u7855\'3ft bu\u7897\'3fc ph\u7843\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c thi\u7871\'3ft k\u7871\'3f ri\'eang t\u7915\'3fng ho\u7841\'3fi ch}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i ( 2 s\u7889\'3f, 3 s\u7889\'3f, 4 s
+\u7889\'3f v\'e0 lo\u7841\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fi chi\u7871\'3fu k\u7871\'3ft qu\u7843\'3f nhi\u7873\'3fu l\u7847\'3fn quay s\u7889\'3f m\u7903\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ), ph\u7843\'3fi c\'f3 m\'e0u s\u7855\'3fc ph\'e2n bi\u7879\'3ft r\'f5 r\'e0ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f ng}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i mua v\'e9 d\u7877\'3f d\'e0ng l\u7921\'3fa ch\u7885\'3fn v\'e0 ki\u7875\'3fm so\'e1t t\u7901\'3f v\'e9 khi mua. ( Ri\'eang lo\u7841\'3fi v\'e9
+ d\u7921\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng nhi\u7873\'3fu l\u7847\'3fn ph\u7843\'3fi ghi r\'f5 s\u7889\'3f l\u7847\'3fn d\u7921\'3f th}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng tr\'ean t\u7901\'3f v\'e9 ).
+\par 
+\par \tab - Khi ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843\'3fi c\'f3 th\'f4ng b\'e1o c\u7911\'3fa c\'f4ng ty XSKT tr\'ean c\'e1c ph}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ti\u7879\'3fn th\'f4ng tin }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI  ch\'fang v\'e0 c\'e1c b\'e0n }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd b\'e1n v\'e9. Th\'f4ng b\'e1o ph\u7843\'3fi th\u7875\'3f hi\u7879\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7911\'3f n\u7897\'3fi dung c\u7911\'3fa th\u7875\'3f l\u7879\'3f ch}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i nh}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 : c\'e1ch ch}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i, c\'e1ch ghi ch\'e9p c\u7911\'3fa }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd, c\'e1ch so s\'e1nh k\u7871\'3ft qu\u7843\'3f, m\u7913\'3fc th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng, n}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i l\u297\'69nh th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng v\'e0 th\u7901\'3fi h\u7841\'3fn l\u297\'69nh th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng.
+\par 
+\par \tab - T\u7893\'3f ch\u7913\'3fc quay s\u7889\'3f m\u7903\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng: C\'e1c c\'f4ng ty XSKT c\'f3 th\u7875\'3f quay s\u7889\'3f m\u7903\'3f th}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ri\'eang cho t\u7915\'3fng lo\u7841\'3fi v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ho\u7863\'3fc s\u7917\'3f d\u7909\'3fng k\u7871\'3f
+t qu\u7843\'3f m\u7903\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng XSKT }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\u7883\'3fnh k\u7923\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f c\'f4ng b\u7889\'3f k\u7871\'3ft qu\u7843\'3f v\'e9 tr\'fang th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd
+\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng cho t\u7915\'3fng lo\u7841\'3fi v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 2 s\u7889\'3f,3 s\u7889\'3f, 4 s\u7889\'3f, 5 s\u7889\'3f v\'e0 lo\u7841\'3fi }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fi chi\u7871\'3fu k\u7871\'3ft qu\u7843\'3f nhi\u7873\'3fu l\u7847\'3fn.
+\par 
+\par \tab 2. T\u7893\'3f ch\u7913\'3fc qu\u7843\'3fn l\'fd:
+\par 
+\par \tab a/ Th\u7921\'3fc hi\u7879\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\u7883\'3fnh c\u7911\'3fa Nh\'e0 n}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c v\u7873\'3f th\u7889\'3fng nh\u7845\'3ft qu\u7843\'3fn l\'fd ph\'e1t h\'e0nh XSKT, c\'e1c lu\u7853\'3ft l
+\u7879\'3f hi\u7879\'3fn h\'e0nh v\'e0 c\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7909\'3f th\u7875\'3f d}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f
+}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e2y:
+\par 
+\par \tab - X\'e2y d\u7921\'3fng c}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  c\u7845\'3fu tr\u7843\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng b\'ecnh qu\'e2n c\'e1c gi\u7843\'3fi kh\'f4ng v}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 t qu\'e1 60% doanh thu ph\'e1t h\'e0nh.
+\par 
+\par \tab - Chi ph\'ed ph\'e1t h\'e0nh ( bao g\u7891\'3fm c\u7843\'3f hoa h\u7891\'3fng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd ) t\u7889\'3fi }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 a kh\'f4ng qu\'e1 18% doanh thu b\'e1n v\'e9 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889
+\'3fi v\u7899\'3fi c\'e1c t\u7881\'3fnh }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng b\u7857\'3fng v\'e0 th\'e0nh ph\u7889\'3f, kh\'f4ng b}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 t qu\'e1 22% }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fi v\u7899\'3fi c\'e1
+c t\u7881\'3fnh mi\u7873\'3fn n\'fai T\'e2y nguy\'ean.
+\par \tab 
+\par \tab - V\u7873\'3f thu\u7871\'3f, c\'e1c C\'f4ng ty XSKT th\u7921\'3fc hi\u7879\'3fn theo lu\u7853\'3ft thu\u7871\'3f hi\u7879\'3fn h\'e0nh. Do x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 l\'e0 lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f m\u7899\'3fi, c
+\'f3 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7863\'3fc th\'f9 ri\'eang, n\'ean thu\u7871\'3f doanh thu trong th\u7901\'3fi gian l\'e0m th\'ed }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm B\u7897\'3f T\'e0i ch\'ednh s\u7869\'3f c}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n c\u7913\'3f v\'e0o lu\u7853\'3ft thu\u7871\'3f hi\u7879\'3fn h\'e0nh c\'f3 v}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n b\u7843\'3fn h}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng d\u7851\'3fn sau.
+\par 
+\par \tab - Ch\u7845\'3fp h\'e0nh nghi\'eam ch\u7881\'3fnh ch\u7881\'3f th\u7883\'3f s\u7889\'3f 2036 TC/C}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 TC ng\'e0y 31/10/1992 c\u7911\'3fa B\u7897\'3f tr}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng B\u7897\'3f T\'e0i ch\'ednh v\u7873\'3f ch\u7845\'3fn ch\u7881\'3fnh ho\u7841\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3fng XSKT.
+\par 
+\par \tab b/ T\u7893\'3f ch\u7913\'3fc v\'e0 qu\u7843\'3fn l\'fd  ch\u7863\'3ft ch\u7869\'3f m\u7841\'3fng l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd:
+\par 
+\par \tab T\u7893\'3f ch\u7913\'3fc }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd b\'e1n v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843\'3fi }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c tuy\u7875\'3fn ch\u7885\'3fn k\u7929\'3f c\'e0ng, b\u7843\'3fo }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7847\'3fy }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7911\'3f c\'e1c y\'eau c\u7847\'3fu sau:
+\par 
+\par \tab - C\'f3 nghi\u7879\'3fp v\u7909\'3f chuy\'ean m\'f4n th\'e0nh th\u7841\'3fo ( tuy\'ean truy\u7873\'3fn, ghi ch\'e9p, b\'e1n v\'e9...)
+\par 
+\par \tab - Ch\u7845\'3fp h\'e0nh }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy ch\u7871\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd v\'e0 c\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7909\'3f th\u7875\'3f c\u7911\'3fa c\'f4ng ty XSKT.
+
+\par 
+\par \tab - }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7841\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 I l\'fd \u7913\'3fng ti\u7873\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f mua v\'e9 ho\u7863\'3fc }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7863\'3ft c\u7885\'3fc b\u7857\'3fng ti\u7873\'3fn m\u7863\'3ft, ho
+\u7863\'3fc th\u7871\'3f ch\u7845\'3fp b\u7857\'3fng c\'e1c ch\u7913\'3fng ch\u7881\'3f c\'f3 gi\'e1 tr\u7883\'3f ( tr\'e1i phi\u7871\'3fu, k\u7923\'3f phi\u7871\'3fu...) t}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng v\u7899\'3fi gi\'e1 tr\u7883\'3f s\u7889
+\'3f v\'e9 nh\u7853\'3fn tr\u7915\'3f hoa h\u7891\'3fng b\'e1n v\'e9.
+\par 
+\par \tab - }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7841\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 I l\'fd ph\u7843\'3fi k\'fd k\u7871\'3ft h\u7907\'3fp }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng kinh t\u7871\'3f v\u7899\'3fi c\'f4ng ty XSKT v\'e0 quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh r\'f5 tr\'e1ch nhi\u7879
+\'3fm v\u7853\'3ft ch\u7845\'3ft gi\u7919\'3fa }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f4I b\'ean.
+\par 
+\par \tab - Ph\u7843\'3fi ki\'ean quy\u7871\'3ft x\u7917\'3f l\'fd }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd c\'f3 h\'e0nh vi vi ph\u7841\'3fm c\'e1c quy }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh.:
+\par \tab + Kh\'f4ng ch\u7845\'3fp h\'e0nh }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy ch\u7871\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd v\'e0 h\u7907\'3fp }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng kinh t\u7871\'3f.
+\par \tab + C\u7889\'3f \'fd gian l\u7853\'3fn, l\u7907\'3fi d\u7909\'3fng, m\'f3c ngo\u7863\'3fc quay v\'f2ng v\'e9 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f tham \'f4.
+\par \tab + B\'e1n v\'e9, ghi ch\'e9p sai kh\'f4ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh.
+\par 
+\par \tab Nh\u7919\'3fng tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng h\u7907\'3fp vi ph\u7841\'3fm ph\u7843\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'ecnh ch\u7881\'3f c\'f3 th\u7901\'3fi h\u7841\'3fn ho\u7863\'3fc v\u297\'69nh vi\u7877\'3fn kh\'f4ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c l\'e0m }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd b\'e1n v\'e9 x\u7893\'3f s\u7889\'3f. N\u7871\'3fu g\'e2y thi
+\u7879\'3ft h\u7841\'3fi v\u7873\'3f v\u7853\'3ft ch\u7845\'3ft ph\u7843\'3fi b\u7891\'3fi th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ho\u7863\'3fc }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f ngh\u7883\'3f x\u7917\'3f l\'fd truy t\u7889\'3f theo lu\u7853\'3ft h\'ecnh s\u7921\'3f.
+\par 
+\par \tab c/ T\u7893\'3f ch\u7913\'3fc thu h\u7891\'3fi cu\u7889\'3fng v\'e9 ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u v\'e0 r\'fat cu\u7889\'3fng ho\u7863\'3fc ph\u7847
+\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u v\'e9 tr\'fang th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng:
+\par 
+\par \tab - Vi\u7879\'3fc thu h\u7891\'3fi cu\u7889\'3fng v\'e9 ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u v\'e0 r\'fat cu\u7889\'3fng ho\u7863\'3fc ph\u7847\'3fn l}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u v\'e9 tr\'fang th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ph\u7843\'3fi }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c t\u7893\'3f ch\u7913\'3fc v\'e0 qu\u7843\'3fn l\'fd ch\u7863\'3ft ch\u7869\'3f c\'f3 s
+\u7921\'3f ch\u7913\'3fng ki\u7871\'3fn gi\'e1m s\'e1t c\u7911\'3fa H\u7897\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng \'93 gi\'e1m s\'e1t ch\u7913\'3fng ki\u7871\'3fn \'93 do U
+\u7927\'3f ban nh\'e2n d\'e2n t\u7881\'3fnh, th\'e0nh ph\u7889\'3f ra quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh th\'e0nh l\u7853\'3fp theo }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa B\u7897\'3f T
+\'e0i ch\'ednh.
+\par 
+\par \tab H\u7897\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng c\'f3 tr\'e1ch nhi\u7879\'3fm ch\u7913\'3fng ki\u7871\'3fn v\'e0 gi\'e1m s\'e1t:
+\par 
+\par \tab + Bi\'ean b\u7843\'3fn x\'e1c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh doanh s\u7889\'3f ph\'e1t h\'e0nh, ni\'eam phong cu\u7889\'3fng v\'e9 ho\u7863\'3fc ph\u7847\'3fn l}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u.
+\par 
+\par \tab + }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7889\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i chi\u7871\'3fu b\u7843\'3fng k\'ea v\'e0 cu\u7889\'3fng v\'e9 c\u7911\'3fa }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd.
+\par 
+\par \tab + Khi c\'f3 k\u7871\'3ft qu\u7843\'3f m\u7903\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng, H\u7897\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng gi\'e1m s\'e1t, ch\u7913\'3fng ki\u7871\'3fn ti\u7871\'3fn h\'e0nh t\u7893\'3f ch\u7913\'3fc m\u7903\'3f ni\'eam phong x\'e1c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh s\u7889\'3f tr\'fang, l\u7853\'3fp bi\'ean b\u7843\'3fn s\u7889\'3f ti\u7873\'3fn ph\u7843\'3fi tr\u7843\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng.
+\par 
+\par \tab Vi\u7879\'3fc thu h\u7891\'3fi cu\u7889\'3fng v\'e9 ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u v\'e0 r\'fat cu\u7889\'3fng ho\u7863\'3fc ph\u7847\'3fn l}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u v\'e9 tr\'fang th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ph\u7843\'3fi }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm b\u7843\'3fo nguy\'ean t\u7855\'3fc:
+\par 
+\par \tab + Thu h\u7891\'3fi cu\u7889\'3fng v\'e9 ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u ph\u7843\'3fi tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899
+\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c gi\u7901\'3f quay s\u7889\'3f m\u7903\'3f th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng, ng}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i thu h\u7891\'3fi cu\u7889\'3fng v\'e9 ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u ph\u7843\'3fi l\u7853\'3fp b\u7843\'3fng k\'ea, k\'fd t\'ean v\'e0 ch\u7883\'3fu ho\'e0n to\'e0n tr\'e1ch nhi\u7879\'3fm do nh\u7919\'3fng sai s\'f3t trong vi\u7879\'3fc thu h\u7891\'3fi cu\u7889\'3fng v\'e9
+.
+\par 
+\par \tab + R\'fat cu\u7889\'3fng v\'e9 tr\'fang th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng ho\u7863\'3fc ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u theo th\u7913\'3f t\u7921\'3f l\'e0m xong c\u7911\'3fa }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd n\'e0y m\u7899\'3fi ti\u7871\'3f
+p t\u7909\'3fc l\'e0m }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7871\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd
+ kh\'e1c; ni\'eam phong ri\'eang cho t\u7915\'3fng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd, l\u7853\'3fp b\u7843\'3fng k\'ea ph\'e2n t\'edch r\'f5 s\u7889\'3f l}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng cu\u7889\'3fng v\'e9 v\'e0 ph\u7847\'3fn l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 u c\u7911\'3fa t\u7915\'3fng lo\u7841\'3fi gi\u7843\'3fi th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng.
+\par 
+\par \tab + Qu\'e1 tr\'ecnh l\'e0m nhi\u7879\'3fm v\u7909\'3f c\'e1c c\'e1n b\u7897\'3f c\'f3 tr\'e1ch nhi\u7879\'3fm li\'ean quan ph\u7843\'3fi b\u7843\'3fo }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\u7843\'3fm th\u7921\'3fc hi\u7879\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang ch\u7913\'3fc n}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng, nhi\u7879\'3fm v\u7909\'3f, quy\u7873\'3fn h\u7841\'3fn c\u7911\'3fa t\u7915\'3fng ng}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i theo }
+{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa C\'f4
+ng ty XSKT.
+\par 
+\par \tab Nh\u7919\'3fng tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng h\u7907\'3fp vi ph\u7841\'3fm l\'e0m \u7843\'3fnh h}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7903\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7871\'3fn vi\u7879\'3fc t\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t
+\'f4\'94 v\'e0 g\'e2y thi\u7879\'3ft h\u7841\'3fi v\u7853\'3ft ch\u7845\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3fu ph\u7843\'3fi b\u7891\'3fi th}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng thi\u7879\'3ft h\u7841\'3fi v\u7853\'3ft ch\u7845\'3ft v\'e0 tu\u7923\'3f theo m\u7913\'3fc }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3f m\'e0 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f ngh\u7883\'3f x\u7917\'3f l\'fd k\u7927\'3f lu\u7853\'3ft h\'e0nh ch\'ed
+nh ho\u7863\'3fc }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f ngh\u7883\'3f truy t\u7889\'3f tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e1plu\u7853\'3ft.
+\par 
+\par \tab }{\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 III. T\u7892\'3f CH\u7912\'3fC TH\u7920\'3fC HI\u7878\'3fN
+\par 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab 1. }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7873\'3fu ki\u7879\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f  \tab \'93L\'f4t\'f4\'94 
+\par 
+\par \tab C\'e1c C\'f4ng ty XSKT c\'f3 y\'eau c\u7847\'3fu ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843\'3fi c\'f3 c\'f4ng v}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n v\'e0 }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f \'e1n ( c\'f3 \'fd ki\u7871\'3fn S\u7903\'3f T\'e0i ch\'ednh V\u7853\'3ft gi\'e1 v\'e0 UBND t\u7881\'3fnh, th\'e0nh ph\u7889\'3f ) g\u7917\'3f
+i l\'ean B\u7897\'3f T\'e0i ch\'ednh x\'e9t duy\u7879\'3ft. Sau khi c\'f3 quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7911\'3fa B\u7897\'3f T\'e0i ch\'ednh cho ph\'e9
+p ph\'e1t h\'e0nh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm, c\'e1c C\'f4ng ty XSKT ph\u7843\'3fi b\'e1o c\'e1o S\u7903\'3f T\'e0i ch\'ednh - V\u7853\'3ft gi\'e1 v\'e0 UBND t
+\u7881\'3fnh, th\'e0nh ph\u7889\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f xin ph\'e9p t\u7893\'3f ch\u7913\'3fc th\u7921\'3fc hi\u7879\'3fn.
+\par 
+\par \tab }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'d0\u7873\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  \'e1n ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843\'3fi b\u7843\'3fo }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7911\'3f n\u7897\'3fi dung ch\u7911\'3f
+ y\u7871\'3fu sau:
+\par 
+\par \tab - K\u7871\'3f ho\u7841\'3fch ph\'e1t h\'e0nh c\u7843\'3f n}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 m c\'f3 chia ra qu\'fd, th\'e1ng.
+\par \tab - T\u7893\'3f ch\u7913\'3fc v\'e0 qu\u7843\'3fn l\'fd m\'e0ng l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd.
+\par \tab - T\u7893\'3f ch\u7913\'3fc c\'f4ng t\'e1c tuy\'ean truy\u7873\'3fn, qu\u7843\'3fng c\'e1o.
+\par \tab - Hi\u7879\'3fu qu\u7843\'3f kinh t\u7871\'3f - x\'e3 h\u7897\'3fi
+\par \tab - Bi\u7879\'3fn ph\'e1p t\u7893\'3f ch\u7913\'3fc qu\u7843\'3fn l\'fd v\'e0 ch\u7889\'3fng s\u7889\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f
+\par 
+\par \tab 2. Vi\u7879\'3fc ph\'e1t h\'e0nh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843\'3fi th\u7921\'3fc hi\u7879\'3fn }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy tr\'ecnh:
+\par 
+\par \tab - Ph\u7843\'3fi t\u7893\'3f ch\u7913\'3fc t\u7889\'3ft c\'f4ng t\'e1c tuy\'ean truy\u7873\'3fn, qu\u7843\'3fng c\'e1o, gi\u7843\'3fi th\'edch cho nh\'e2n d\'e2n hi\u7875\'3fu r\'f5 m\u7909\'3fc }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'edch, \'fd ngh\u297\'69a c\u7911\'3fa vi\u7879\'3fc ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94
+\par 
+\par \tab - Chu\u7849\'3fn b\u7883\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7847\'3fy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\u7911\'3f c\'e1c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7873\'3fu ki\u7879\'3fn c\u7847\'3fn thi\u7871\'3ft ph\u7909\'3fc v\u7909\'3f cho vi\u7879\'3fc ph\'e1t h\'e0nh x\u7893\'3f s\u7889
+\'3f \'93L\'f4t\'f4\'94 ( m\'e0ng l}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\u7841\'3fI l\'fd, H\u7897\'3fi d\u7891\'3fng gi\'e1m s\'e1t ch\u7913\'3fng ki\u7871\'3fn, ng}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i gi\'fap vi\u7879\'3fc...v\'e0 ban h\'e0nh quy }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh c\u7909\'3f th\u7875\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7889\'3fi v
+\u7899\'3fi }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd b\'e1n v\'e9 x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 bao g\u7891\'3fm c\'e1c n\u7897\'3fi dung }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7873\'3fu ki\u7879\'3fn, tr\'e1ch nhi\u7879\'3fm, quy\u7873\'3fn h\u7841\'3fn, quy\u7873\'3fn l\u7907\'3fi c\u7911\'3fa }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3fI l\'fd ).
+\par 
+\par \tab - Ph\u7843\'3fi t\u7893\'3f ch\u7913\'3fc ph\'e1t h\'e0nh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f r\'fat kinh nghi\u7879\'3fm, d\u7847\'3fn d\u7847\'3fn m\u7899\'3fi m\u7903\'3f r\u7897\'3fng th\'eam }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fa b\'e0n ph\'e1t h\'e0nh.
+\par 
+\par \tab - H\'e0ng th\'e1ng, qu\'fd, n}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 m ph\u7843\'3fi ti\u7871\'3fn h\'e0nh s}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  t\u7893\'3fng k\u7871\'3ft, th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng xuy\'ean ki\u7875\'3fm tra, k\u7883\'3fp th\u7901\'3fi u\u7889
+\'3fn n\u7855\'3fn ch\u7845\'3fn ch\u7881\'3fnh nh\u7919\'3fng l\u7879\'3fch l\u7841\'3fc, b\u7893\'3f sung bi\u7879\'3fn ph\'e1p qu\u7843\'3fn l\'fd b\u7843\'3fo }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm cho c\'f4ng t\'e1c ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7841\'3ft hi
+\u7879\'3fu qu\u7843\'3f kinh t\u7871\'3f - x\'e3 h\u7897\'3fi cao, h\u7841\'3fn ch\u7871\'3f ph\'e1t sinh ti\'eau c\u7921\'3fc.
+\par 
+\par \tab - Trong qu\'e1 tr\'ecnh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm ph\u7843\'3fi ti\u7871\'3fn h\'e0nh }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7891\'3fng th\u7901\'3fi vi\u7879\'3fc ph\u7889\'3fi h\u7907\'3fp c\u7899\'3fi c\'e1c c}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  quan li\'ea
+n quan tri\u7875\'3fn khai truy qu\'e9t s\u7889\'3f }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3f theo th\'f4ng t}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  li\'ean b\u7897\'3f T\'e0i ch\'ednh - N\u7897\'3fi v\u7909\'3f s\u7889\'3f 43 TT/LB ng\'e0y 8/5/1994.
+\par 
+\par \tab 3. C\'f4ng t\'e1c h\u7841\'3fch to\'e1n k\u7871\'3f to\'e1n.
+\par 
+\par \tab - To\'e0n b\u7897\'3f ho\u7841\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3fng ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 ph\u7843\'3fi m\u7903\'3f s\u7893\'3f s
+\'e1ch, ch\u7913\'3fng t\u7915\'3f h\u7841\'3fch to\'e1n ri\'eang v\'e0 v\u7853\'3fn d\u7909\'3fng t\'e0i kho\u7843\'3fn gi\u7889\'3fng nh}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  XSKT }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh k\u7923\'3f, }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7843\'3fm b\u7843\'3fo th
+\u7921\'3fc hi\u7879\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang ph\'e1p l\u7879\'3fnh k\u7871\'3f to\'e1n th\u7889\'3fng k\u7871\'3f hi\u7879\'3fn h\'e0nh c\u7911\'3fa Nh\'e0 n}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c.
+\par 
+\par \tab - Th}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng xuy\'ean b\'e1o c\'e1o nhanh ( 10 ng\'e0y, th\'e1ng ) v\'e0 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh k\u7923\'3f h\'e0ng qu\'fd v\u7873\'3f B\u7897\'3f T\'e0i ch\'ednh theo m\u7851\'3fu bi\u7875\'3fu quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh.
+\par 
+\par \tab - To\'e0n b\u7897\'3f k\u7871\'3ft qu\u7843\'3f kinh doanh ph\'e1t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c t\'ednh l\'e0 kinh doanh ch\'ednh nh}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989  XSKT }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh k\u7923\'3f.
+\par 
+\par \tab 4. C\'e1c C\'f4ng ty XSKT ch\u7883\'3fu s\u7921\'3f ki\u7875\'3fm tra c\u7911\'3fa S\u7903\'3f T\'e0i ch\'ednh, U\u7927\'3f ban nh\'e2n d\'e2n t\u7881\'3fnh, th\'e0nh ph\u7889\'3f, B\u7897\'3f T\'e0i ch\'ednh v\'e0 c\'f3 tr\'e1ch nhi\u7879\'3fm th
+\u7921\'3fc hi\u7879\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang quy ch\u7871\'3f n\'e0y, }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n v\u7883\'3f n\'e0o vi ph\u7841\'3fm B\u7897\'3f T\'e0i ch\'ednh s\u7869\'3f thu h\u7891\'3fi gi\u7845\'3fy ph\'e9p ph\'e1t h\'e0nh x\u7893\'3f s\u7889
+\'3f \'93L\'f4t\'f4\'94 v\'e0 ch\u7883\'3fu tr\'e1ch nhi\u7879\'3fm tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c ph\'e1p lu\u7853\'3ft.
+\par 
+\par \tab 5. N\u7871\'3fu }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fa ph}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\'f5}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng n\'e0o ph
+\'e1t h\'e0nh th\'ed }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 hi\u7879\'3fu qu\u7843\'3f th\u7845\'3fp, ph\'e1t sinh l\u7895\'3f, x\'e9
+t th\u7845\'3fy kh\'f4ng c\'f3 kh\u7843\'3f n}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng kh\u7855\'3fc ph\u7909\'3fc v\'e0 kh\'f4ng th\u7875\'3f duy tr\'ec ph\'e1t h\'e0nh th\'ed }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 i\u7875\'3fm }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f n\'e0y th\'ec c\'f4ng ty XSKT l\'e0m v}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n b\u7843\'3fn tr\'ec
+nh U\u7927\'3f ban nh\'e2n d\'e2n t\u7881\'3fnh, th\'e0nh ph\u7889\'3f, S\u7903\'3f T\'e0i ch\'ednh - V\u7853\'3ft gi\'e1, B\u7897\'3f T\'e0i ch\'ednh xin ng\u7915\'3fng ho\u7841\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3fng.
+\par 
+\par \tab - Khi ng\u7915\'3fng ho\u7841\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3fng c\'f4ng ty ph\u7843\'3fi l\'e0m }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fang c\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh sau
+\par 
+\par \tab + L\'e0m quy\u7871\'3ft to\'e1n ho\u7841\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7897\'3fng x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94 t\u7915\'3f ng\'e0y ph\'e1t h\'e0nh }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7871\'3fn ng\'e0y ng\u7915\'3fng ho\u7841\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\u7897\'3fng tr\'ecnh S\u7903\'3f T\'e0i ch\'ednh - V\u7853\'3ft gi\'e1 ph\'ea duy\u7879\'3ft.
+\par 
+\par \tab + Ph\'e2n t\'edch nh\u7919\'3fng nguy\'ean nh\'e2n d\u7851\'3fn }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7871\'3fn l\u7895\'3f.
+\par 
+\par \tab + L\u7895\'3f do y\u7871\'3fu t\u7889\'3f kh\'e1ch quan }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c h\u7841\'3fch to\'e1
+n chung v\'e0o l\u7907\'3fi nhu\u7853\'3fn ph\'e1t sinh c\u7911\'3fa c\'e1c lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f kh\'e1c v\'e0 n\u7897\'3fp thu\u7871\'3f l\u7907\'3fi t\u7913\'3fc theo lu\u7853\'3ft }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh. Tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7901\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng h\u7907\'3fp s\u7889\'3f
+ l\u7895\'3f ph\'e1t sinh qu\'e1 l\u7899\'3fn, sau khi l\u7845\'3fy l\u7907\'3fi nhu\u7853\'3fn c\u7911\'3fa c\'e1c lo\u7841\'3fi h\'ecnh x\u7893\'3f s\u7889\'3f kh\'e1c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f b\'f9 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7855\'3fp m\'e0 v\u7851\'3fn c\'f2n l\u7895\'3f th\'ec ph\u7847\'3fn l\u7895\'3f }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f3 }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7907\'3f}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c k\u7871\'3ft chuy\u7875\'3fn sang n}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 m sau.
+\par 
+\par \tab - UBND t\u7881\'3fnh, th\'e0nh ph\u7889\'3f l\'e0 c\u7845\'3fp c\'f3 th\u7849\'3fm quy\u7873\'3fn quy\u7871\'3ft }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh ng\u7915\'3fng ph\'e1
+t h\'e0nh x\u7893\'3f s\u7889\'3f \'93L\'f4t\'f4\'94.
+\par 
+\par \tab }{\f0\ul\cf1\cgrid0\insrsid9110989\charrsid9110989 IV. TH\u7900\'3fI H\u7840\'3fN THI H\'c0NH
+\par 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab Quy ch\u7871\'3f n\'e0y c\'f3 hi\u7879\'3fu l\u7921\'3fc thi h\'e0nh k\u7875\'3f t\u7915\'3f ng\'e0y k\'fd. C\'e1c quy }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7883\'3fnh tr}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 c }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e2y tr\'e1i v\u7899\'3fi quy ch\u7871\'3f n\'e0y }{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7873\'3fu b\'e3i b\u7887\'3f.
+\par 
+\par \tab Trong qu\'e1 tr\'ecnh th\u7921\'3fc hi\u7879\'3fn, n\u7871\'3fu g\u7863\'3fp kh\'f3 kh}{\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'e3}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 n v}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'fd
+\u7899\'3f}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 ng m\u7855\'3fc g\'ec, c\'e1c C\'f4ng ty XSKT c\u7847\'3fn ph\u7843\'3fn \'e1nh ng\'e0y v\u7873\'3f B\u7897\'3f T\'e0i ch\'ednh v\'e0 UBND t\u7881\'3fnh, th\'e0nh ph\u7889\'3f }{
+\f192\cf1\cgrid0\insrsid9110989\charrsid9110989 \'f0}{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7875\'3f k\u7883\'3fp th\u7901\'3fi nghi\'ean c\u7913\'3fu gi\u7843\'3fi quy\u7871\'3ft./.
+\par 
+\par }\trowd \irow0\irowband0\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt
+\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 KT/B\u7896\'3f TR}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'dd}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7902\'3fNG B\u7896\'3f T\'c0I CH\'cdNH\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow0\irowband0
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell }\pard \qc \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 TH\u7912\'3f TR}{\f200\cf1\cgrid0\insrsid9110989\charrsid9110989 \'dd}{
+\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \u7902\'3fNG\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow1\irowband1
+\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl
+\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow2\irowband2\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow3\irowband3\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow4\irowband4\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow5\irowband5\ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone 
+\clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142
+\row }\pard \qj \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \cell }\pard 
+\qc \li40\ri40\sl240\slmult0\widctlpar\intbl\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin40\lin40 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 Nguy\u7877\'3fn Sinh H\'f9ng
+\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \trowd \irow6\irowband6\lastrow \ts11\trgaph108\trleft0\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 
+\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth6001\clshdrawnil \cellx6001\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone 
+\cltxlrtb\clftsWidth3\clwWidth5141\clshdrawnil \cellx11142\row }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li990\ri1727\sl240\slmult0\widctlpar\tx1710\tx2430\tx3150\tx3870\tx4590\tx5310\tx6030\tx6750\tx7470\tx8190\tx8910\tx9630\tx10350\tx11070\faauto\adjustright\rin1727\lin990\itap0 {\b\i\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par }{\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 \tab 
+\par 
+\par }\pard \qj \li0\ri0\sl240\slmult0\widctlpar\tx0\tx2160\faauto\adjustright\rin0\lin0\itap0 {\f0\cf1\cgrid0\insrsid9110989\charrsid9110989 
+\par 
+\par 
+\par 
+\par }\pard \qj \li0\ri0\sl240\slmult0\widctlpar\tx0\faauto\adjustright\rin0\lin0\itap0 {\b\i\f0\fs24\cf10\cgrid0\insrsid9110989\charrsid9110989 V}{\b\i\f192\fs24\cf10\cgrid0\insrsid9110989\charrsid9110989 \'e3}{
+\b\i\f0\fs24\cf10\cgrid0\insrsid9110989\charrsid9110989 n b\u7843\'3fn li\'ean quan:
+\par }\pard \qj \li0\ri0\sl240\slmult0\widctlpar\tx810\faauto\adjustright\rin0\lin0\itap0 {\b\i\f0\fs24\cf10\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li270\ri0\sl240\slmult0\widctlpar\tx0\tx2160\faauto\adjustright\rin0\lin270\itap0 {\b\i\f0\fs24\cf10\cgrid0\insrsid9110989\charrsid9110989 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\insrsid9110989 
+\par }}
