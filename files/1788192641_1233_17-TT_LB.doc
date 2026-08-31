@@ -1,0 +1,863 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff36\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f36\fswiss\fcharset0\fprq2{\*\panose 020b7200000000000000}.VnTime{\*\falt Courier New};}{\f38\froman\fcharset238\fprq2 Times New Roman CE;}{\f39\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f41\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f42\froman\fcharset162\fprq2 Times New Roman Tur;}{\f43\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f44\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f45\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f46\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\qj \fi567\li0\ri0\sa120\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\qj \fi567\li0\ri0\sa120\widctlpar
+\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 footer;}{\s16\qj \li0\ri0\sa120\widctlpar\brdrt\brdrs\brdrw15\brsp20 \brdrl\brdrs\brdrw15\brsp20 \brdrb
+\brdrs\brdrw15\brsp20 \brdrr\brdrs\brdrw15\brsp20 \pvpara\phpg\posx2382\posy45\absh799\absw2083\dxfrtext180\dfrmtxtx180\dfrmtxty0\faauto\adjustright\rin0\lin0\rtlgutter\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext16 BIEU TUONG;}{\s17\qj \fi567\li0\ri0\sa120\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext17 header;}}{\*\revtbl {Unknown;}}{\*\rsidtbl \rsid279667
+\rsid336100\rsid10623770\rsid15224060}{\*\generator Microsoft Word 10.0.2627;}{\info{\title TH\'abNG T\'ad}{\author Nguyen Thach Toan}{\operator SYSTEM}{\creatim\yr2004\mo12\dy22\hr17\min29}{\revtim\yr2004\mo12\dy22\hr17\min29}{\version2}{\edmins0}
+{\nofpages9}{\nofwords2020}{\nofchars11516}{\*\company BTH-BTC}{\nofcharsws13509}{\vern16437}}\paperw11907\paperh16840\margl1797\margr1797 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\lytprtmet\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot15224060 \fet0\sectd \psz9\linex0\endnhere\titlepg\sectdefaultcl\sftnbj {\header \pard\plain 
+\qj \fi567\li0\ri0\sa120\widctlpar\pvpara\phmrg\posxr\posy0\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\field{\*\fldinst {\insrsid15224060 PAGE  }}{\fldrslt {
+\lang1024\langfe1024\noproof\insrsid279667 9}}}{\insrsid15224060 
+\par }\pard \qj \fi567\li0\ri360\sa120\widctlpar\faauto\adjustright\rin360\lin0\itap0 {\insrsid15224060 
+\par }}{\footer \pard\plain \s15\qj \fi567\li0\ri0\sa120\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid15224060 
+\par }}{\headerf \pard\plain \s17\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f38\fs20\insrsid10623770\charrsid10623770 V\'c3N}{
+\b\f0\fs20\insrsid15224060\charrsid10623770  }{\b\f0\fs20\insrsid10623770\charrsid10623770 PH\'d2NG}{\b\f0\fs20\insrsid15224060\charrsid10623770  }{\b\f0\fs20\insrsid10623770\charrsid10623770 QU\uc1\u7888\'3fC}{\b\f0\fs20\insrsid15224060\charrsid10623770 
+ }{\b\f0\fs20\insrsid10623770\charrsid10623770 H\uc1\u7896\'3fI}{\f0\insrsid15224060\charrsid10623770  \tab \tab }{\f46\fs20\insrsid10623770\charrsid10623770 C\'d5}{\f0\fs20\insrsid15224060\charrsid10623770  }{\f0\fs20\insrsid10623770\charrsid10623770 S
+\uc1\u7902\'3f}{\f0\fs20\insrsid15224060\charrsid10623770  }{\f0\fs20\insrsid10623770\charrsid10623770 D\uc1\u7918\'3f}{\f0\fs20\insrsid15224060\charrsid10623770  }{\f0\fs20\insrsid10623770\charrsid10623770 LI\uc1\u7878\'3fU}{
+\f0\fs20\insrsid15224060\charrsid10623770  }{\f0\fs20\insrsid10623770\charrsid10623770 LU\uc1\u7852\'3fT}{\f0\fs20\insrsid15224060\charrsid10623770  }{\f0\fs20\insrsid10623770\charrsid10623770 VI\uc1\u7878\'3fT}{\f0\fs20\insrsid15224060\charrsid10623770  
+}{\f0\fs20\insrsid10623770\charrsid10623770 NAM}{\f0\fs20\insrsid15224060\charrsid10623770  LAWDATA
+\par }}{\footerf \pard\plain \s15\qj \fi567\li0\ri0\sa120\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid15224060 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\sl240\slmult0\keepn\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 
+\f36\fs24\cf2\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f46\fs32\expnd20\expndtw100\insrsid15224060\charrsid10623770 TH\'d4NG T\'dd}{\f0\insrsid15224060\charrsid10623770 
+\par }\pard \qc \li0\ri0\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\b\f0\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 LI\'caN B\u7896\'3f T\'c0I CH\'cdNH - N\'d4NG NGHI\u7878\'3fP S\u7888\'3f
+ 17-TT/LB
+\par }{\b\f46\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 NG\'c0Y 11-8-1986 H\'dd}{\b\f0\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 \u7898\'3fNG D\u7850\'3fN QU\u7842\'3fN L\'dd, KH\u7844\'3fU HAO
+\par T\'c0I S\u7842\'3fN C\u7888\'3f}{\b\f38\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770  \'d0}{\b\f0\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 \u7882\'3fNH TRONG H\u7906\'3fP T\'c1C X\'c3, T\u7852\'3f}{
+\b\f46\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 P \'d0O\'c0N S}{\b\f0\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 \u7842\'3fN XU\u7844\'3fT
+\par N\'d4NG NGHI\u7878\'3f}{\b\f46\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 P (D\'dd}{\b\f0\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 \u7898\'3f}{\b\f38\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 I \'d0\'c2Y G}{
+\b\f0\fs20\expnd4\expndtw24\insrsid15224060\charrsid10623770 \u7884\'3fI T\u7854\'3fT L\'c0 H\u7906\'3fP T\'c1C X\'c3). 
+\par }\pard \qj \li0\ri0\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\insrsid15224060\charrsid10623770 
+\par }\pard \qj \fi567\li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\i\f38\insrsid15224060\charrsid10623770 \'d0}{\i\f0\insrsid15224060\charrsid10623770 \u7875\'3f ph\'f9 h\u7907\'3fp v\u7899\'3f}{
+\i\f46\insrsid15224060\charrsid10623770 i c\'f5 ch}{\i\f0\insrsid15224060\charrsid10623770 \u7871\'3f qu\u7843\'3fn l\'fd m\u7899\'3fi v\'e0 t\'ecnh h\'ecnh gi\'e1 c\u7843\'3f hi\u7879\'3f}{\i\f46\insrsid15224060\charrsid10623770 n nay, v\'e0 \'f0}{
+\i\f0\insrsid15224060\charrsid10623770 \u7875\'3f t\u7841\'3f}{\i\f38\insrsid15224060\charrsid10623770 o \'f0i}{\i\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ki\u7879\'3fn cho h\u7907\'3fp t\'e1c x\'e3 qu\u7843\'3fn l\'fd s\u7917\'3f d\u7909\'3fng c
+\'f3 hi\u7879\'3fu qu\u7843\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\i\f38\insrsid15224060\charrsid10623770  \'f0}{\i\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\i\f38\insrsid15224060\charrsid10623770 nh, t\'ednh \'f0}{
+\i\f0\insrsid15224060\charrsid10623770 \u7911\'3f}{\i\f46\insrsid15224060\charrsid10623770  v\'e0 \'f0\'fang chi ph\'ed s}{\i\f0\insrsid15224060\charrsid10623770 \u7843\'3fn xu\u7845\'3ft, th\u7921\'3fc hi\u7879\'3fn h\u7841\'3fch to\'e1n kinh t\u7871\'3f
+ v\'e0 kinh doanh x\'e3 h\u7897\'3fi ch\u7911\'3f ngh\u297\'69a. Li\'ean B\u7897\'3f T\'e0i ch\'ednh - N\'f4ng nghi\u7879\'3f}{\i\f46\insrsid15224060\charrsid10623770 p h\'fd}{\i\f0\insrsid15224060\charrsid10623770 \u7899\'3fng d\u7851\'3fn th\'eam m
+\u7897\'3ft s\u7889\'3f}{\i\f38\insrsid15224060\charrsid10623770  \'f0i}{\i\f0\insrsid15224060\charrsid10623770 \u7875\'3f}{\i\f38\insrsid15224060\charrsid10623770 m \'f0}{\i\f0\insrsid15224060\charrsid10623770 \'e3 quy }{
+\i\f38\insrsid15224060\charrsid10623770 \'f0}{\i\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\i\f38\insrsid15224060\charrsid10623770 nh trong \'f0i}{\i\f0\insrsid15224060\charrsid10623770 \u7873\'3fu 11, 12 c\u7911\'3fa ch\u7871\'3f}{
+\i\f38\insrsid15224060\charrsid10623770  \'f0}{\i\f0\insrsid15224060\charrsid10623770 \u7897\'3f qu\u7843\'3fn l\'fd t\'e0i ch\'ednh h\u7907\'3fp t\'e1c x\'e3 n\'f4ng - l\'e2m nghi\u7879\'3fp ban h\'e0nh theo Quy\u7871\'3f}{
+\i\f38\insrsid15224060\charrsid10623770 t \'f0}{\i\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh s\u7889\'3f}{\i\f46\insrsid15224060\charrsid10623770  45-Q\'d0LB ng\'e0y 20-4-1981 c}{\i\f0\insrsid15224060\charrsid10623770 \u7911\'3fa Li\'ean B\u7897
+\'3f v\u7873\'3f qu\u7843\'3fn l\'fd t\'e0i s\u7843\'3fn c\u7889\'3f}{\i\f38\insrsid15224060\charrsid10623770  \'f0}{\i\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh trong h\u7907\'3fp t\'e1c x\'e3 nh}{\i\f46\insrsid15224060\charrsid10623770 \'fd sau: 
+
+\par }{\f0\insrsid15224060\charrsid10623770 
+\par }\pard \qc \li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\fs20\insrsid15224060\charrsid10623770 I- TI\'caU CHU\u7848\'3fN T\'c0I S\u7842\'3fN C\u7888\'3f}{
+\f38\fs20\insrsid15224060\charrsid10623770  \'d0}{\f0\fs20\insrsid15224060\charrsid10623770 \u7882\'3fNH 
+\par }\pard \qj \fi567\li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\insrsid15224060\charrsid10623770 
+\par T\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh trong h\u7907\'3fp t\'e1c x\'e3 l\'e0 nh\u7919\'3fng c\'f4ng c\u7909\'3f}{\f38\insrsid15224060\charrsid10623770  lao \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7897\'3fng v\'e0 t\'e0i s\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 n c\'f3 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7911\'3f}{\f38\insrsid15224060\charrsid10623770  2 \'f0i}{
+\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ki\u7879\'3fn sau:
+\par a) C\'f3 gi\'e1 tr\u7883\'3f t\u7915\'3f}{\f38\insrsid15224060\charrsid10623770  5.000 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3fng tr\u7903\'3f l\'ean.
+\par b) Th\u7901\'3fi gian s\u7917\'3f d\u7909\'3f}{\f46\insrsid15224060\charrsid10623770 ng tr\'ean 1 n\'e3}{\f0\insrsid15224060\charrsid10623770 m.
+\par Do y\'eau c\u7847\'3fu c\'f4ng t\'e1c qu\u7843\'3fn l\'fd, nh\u7919\'3fng c\'f4ng c\u7909\'3f}{\f38\insrsid15224060\charrsid10623770  lao \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng v\'e0 t\'e0i s\u7843\'3f}{
+\f38\insrsid15224060\charrsid10623770 n sau \'f0\'e2y c\'f3 th}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f gi\'e1 tr\u7883\'3f}{\f46\insrsid15224060\charrsid10623770  \'f0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{
+\f38\insrsid15224060\charrsid10623770  kh\'f4ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7911\'3f}{\f38\insrsid15224060\charrsid10623770  5.000 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3f}{\f46\insrsid15224060\charrsid10623770 ng nh\'fdng v}
+{\f0\insrsid15224060\charrsid10623770 \u7851\'3f}{\f46\insrsid15224060\charrsid10623770 n \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc coi l\'e0 t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh:
+\par - L\u7907\'3fn n\'e1i sinh s\u7843\'3fn v\'e0 l\u7907\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7921\'3fc gi\u7889\'3fng;
+\par - B\'e0n gh\u7871\'3f, t\u7911\'3f, m\'e1y t\'ednh \u7903\'3f}{\f38\insrsid15224060\charrsid10623770  v\'e3n ph}{\f0\insrsid15224060\charrsid10623770 \'f2ng;
+\par - Xe c\u7843\'3fi ti\u7871\'3fn v\'e0 thuy\u7873\'3fn v\u7853\'3fn chuy\u7875\'3fn;
+\par - B\u7897\'3f s\'e1ch qu\'ed \u7903\'3f}{\f46\insrsid15224060\charrsid10623770  th\'fd vi}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn v\'e0 c\'e1c di s\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 n tr\'fdng b\'e0y }{
+\f0\insrsid15224060\charrsid10623770 \u7903\'3f}{\f46\insrsid15224060\charrsid10623770  nh\'e0 v\'e3n ho\'e1, nh\'e0 truy}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fn th\u7889\'3fng...
+\par Nh\u7919\'3fng c\'f4ng c\u7909\'3f}{\f38\insrsid15224060\charrsid10623770  lao \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng v\'e0 t\'e0i s\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 n sau \'f0\'e2y d\'f9 gi\'e1 tr}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770  \'f0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f l\u7899\'3f}{\f46\insrsid15224060\charrsid10623770 n h\'f5n 5.000 \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7891\'3f}{\f46\insrsid15224060\charrsid10623770 ng nh\'fdng c}{\f0\insrsid15224060\charrsid10623770 \u361\'75ng kh\'f4ng coi l\'e0 t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 nh nh\'fd \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3f s\'e0nh s\u7913\'3f, thu\u7927\'3f}{\f46\insrsid15224060\charrsid10623770  tinh v\'e0 \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7891\'3f d\u7877\'3f v\u7905\'3f kh\'e1c. 
+\par 
+\par }\pard \qc \li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\fs20\insrsid15224060\charrsid10623770 II- KH\u7844\'3fU HAO T\'c0I S\u7842\'3fN C\u7888\'3f}{
+\f38\fs20\insrsid15224060\charrsid10623770  \'d0}{\f0\fs20\insrsid15224060\charrsid10623770 \u7882\'3fNH V\'c0 S\u7916\'3f D\u7908\'3fNG V\u7888\'3fN KH\u7844\'3fU HAO 
+\par }\pard \qj \fi567\li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\insrsid15224060\charrsid10623770 
+\par 1. V\u7873\'3f nguy\'ean t\u7855\'3fc, t\u7845\'3ft c\u7843\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f38\insrsid15224060\charrsid10623770 nh \'f0ang s}{
+\f0\insrsid15224060\charrsid10623770 \u7917\'3f d\u7909\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ph\u7843\'3fi tr\'edch kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{
+\f0\insrsid15224060\charrsid10623770 \u7843\'3fn v\'e0 kh\u7845\'3fu hao s\u7917\'3fa ch\u7919\'3fa l\u7899\'3f}{\f46\insrsid15224060\charrsid10623770 n. Tuy nhi\'ean, do \'f0}{\f0\insrsid15224060\charrsid10623770 \u7863\'3f}{
+\f38\insrsid15224060\charrsid10623770 c \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7875\'3fm k\u7929\'3f thu\u7853\'3ft v\'e0 y\'eau c\u7847\'3fu c\u7911\'3fa c\'f4ng t\'e1c qu\u7843\'3fn l\'fd s\u7917\'3f d\u7909\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}
+{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh. Vi\u7879\'3fc kh\u7845\'3fu hao t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f
+nh trong h\u7907\'3fp t\'e1c x\'e3 c\u7847\'3fn ch\'fa \'fd m\u7897\'3ft s\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7875\'3fm sau:
+\par a) Nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f38\insrsid15224060\charrsid10623770 nh sau \'f0\'e2y ch}{\f0\insrsid15224060\charrsid10623770 \u7881\'3f tr
+\'edch kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn:
+\par - S\'fac v\u7853\'3ft l\'e0m vi\u7879\'3fc, cho s\u7843\'3fn ph\u7849\'3fm;
+\par - B\'e0n gh\u7871\'3f, t\u7911\'3f h\u7891\'3f}{\f46\insrsid15224060\charrsid10623770  s\'f5 }{\f0\insrsid15224060\charrsid10623770 \u7903\'3f}{\f38\insrsid15224060\charrsid10623770  v\'e3n ph}{\f0\insrsid15224060\charrsid10623770 \'f2ng;
+\par }{\f46\insrsid15224060\charrsid10623770 - V\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3f}{\f38\insrsid15224060\charrsid10623770 n c\'e2y l\'e2u n\'e3m.
+\par }{\f0\insrsid15224060\charrsid10623770 b) Nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f38\insrsid15224060\charrsid10623770 nh sau \'f0\'e2y c}{
+\f0\insrsid15224060\charrsid10623770 h\u7881\'3f tr\'edch kh\u7845\'3fu hao s\u7917\'3fa ch\u7919\'3fa l\u7899\'3fn:
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'fd\'f5ng m\'e1n, k\'eanh d}{\f0\insrsid15224060\charrsid10623770 \u7851\'3f}{\f46\insrsid15224060\charrsid10623770 n n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{
+\f46\insrsid15224060\charrsid10623770 c, \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng s\'e1;
+\par - K\'e8 c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770 ng, \'f0}{\f0\insrsid15224060\charrsid10623770 \u7853\'3f}{\f46\insrsid15224060\charrsid10623770 p n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc.
+\par c) Nh\u7919\'3fng t\'e0i c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh s\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 n sau \'f0\'e2y kh\'f4ng tr\'edch kh}{
+\f0\insrsid15224060\charrsid10623770 \u7845\'3fu hao:
+\par - Ru\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft, ao h\u7891\'3f}{\f38\insrsid15224060\charrsid10623770 , \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3fng c\u7887\'3f;
+\par - T\'e0i s\u7843\'3fn chuy\'ean d\'f9ng cho ph\'fac l\u7907\'3fi t\u7853\'3fp th\u7875\'3f;
+\par - T\'e0i s\u7843\'3fn ni\'eam c\u7845\'3ft, d\u7921\'3f tr\u7919\'3f.
+\par }{\f38\insrsid15224060\charrsid10623770 2. \'d0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3f}{\f46\insrsid15224060\charrsid10623770 i t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fng tr\'edch kh\u7845\'3fu hao l\'e0 t\u7915\'3f}{
+\f46\insrsid15224060\charrsid10623770 ng \'f0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh ho\u7863\'3fc t\u7915\'3f
+ng nh\'f3m t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 nh. \'d0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f t\'e0i s\u7843
+\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh l\'e0 nh\u7919\'3fng t\'e0i s\u7843\'3fn c\'f3 k\u7871\'3ft c\u7845\'3fu ri\'eang bi\u7879\'3f}{\f46\insrsid15224060\charrsid10623770 t v\'e0
+ \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fc l\u7853\'3fp th\u7921\'3fc hi\u7879\'3fn m\u7897\'3ft ch\u7913\'3f}{\f38\insrsid15224060\charrsid10623770 c n\'e3ng nh}{\f0\insrsid15224060\charrsid10623770 \u7845\'3f}{
+\f38\insrsid15224060\charrsid10623770 t \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh ho\u7863\'3fc l\'e0 nh\u7919\'3fng t\'e0i s\u7843\'3fn c\'f3 k\u7871\'3ft c\u7845\'3fu g\u7891\'3fm nhi\u7873\'3fu b\u7897\'3f ph\u7853\'3fn c\'f3 li\'ea
+n quan m\u7853\'3ft thi\u7871\'3ft v\u7899\'3fi nhau, kh\'f4ng th\u7875\'3f t\'e1ch r\u7901\'3fi nhau v\'e0 c\'f9ng nhau th\u7921\'3fc hi\u7879\'3fn m\u7897\'3ft ch\u7913\'3f}{\f38\insrsid15224060\charrsid10623770 c n\'e3ng nh}{
+\f0\insrsid15224060\charrsid10623770 \u7845\'3f}{\f38\insrsid15224060\charrsid10623770 t \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh.
+\par 3. M\u7913\'3fc kh\u7845\'3fu hao v\'e0 t\u7927\'3f l\u7879\'3f kh\u7845\'3fu hao t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 nh \'f0
+\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc t\'ednh theo c\'f4ng th\u7913\'3fc sau:
+\par                                                      Nguy\'ean gi\'e1        Chi ph\'ed       Gi\'e1 tr\u7883\'3f
+\par                                                    t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh +  thanh l\'fd  -   thu h\u7891\'3fi
+\par      a) M\u7913\'3fc kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn  =    -----------------------------------------------
+\par                                                                      S\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  n\'e3m }{\f0\insrsid15224060\charrsid10623770 s\u7917\'3f d\u7909\'3fng 
+\par 
+\par                                                                       Ph\'ed t\u7893\'3fn s\u7917\'3fa ch\u7919\'3fa l\u7899\'3fn c\u7843\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fi
+\par                                                                               t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh
+\par       b) M\u7913\'3fc kh\u7845\'3fu hao s\u7917\'3fa ch\u7919\'3fa l\u7899\'3fn =         ---------------------------------------
+\par                                                                              S\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  n\'e3m s}{\f0\insrsid15224060\charrsid10623770 \u7917\'3f d\u7909\'3fng 
+\par 
+\par                                                               M\u7913\'3fc kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn
+\par      c) T\u7927\'3f l\u7879\'3f (%) kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn =  ------------------------------------  x 100
+\par                                                           Nguy\'ean gi\'e1 t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh 
+\par 
+\par                                                          M\u7913\'3fc kh\u7845\'3fu hao s\u7917\'3fa ch\u7919\'3fa l\u7899\'3fn
+\par      d) T\u7927\'3f l\u7879\'3f (%) kh\u7845\'3fu hao =             -----------------------------------   x 100
+\par                                                 s\u7917\'3fa ch\u7919\'3fa l\u7899\'3fn Nguy\'ean gi\'e1 t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh 
+\par 
+\par }{\f46\insrsid15224060\charrsid10623770 K\'e8m theo Th\'f4ng t\'fd n\'e0y, li\'ean B}{\f0\insrsid15224060\charrsid10623770 \u7897\'3f}{\f46\insrsid15224060\charrsid10623770  h\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fng d\u7851\'3fn t\u7927\'3f
+ l\u7879\'3f kh\u7845\'3f}{\f38\insrsid15224060\charrsid10623770 u hao \'f0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3fi v\u7899\'3fi m\u7897\'3ft s\u7889\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh ch\u7911\'3f y\u7871\'3fu trong h\u7907\'3fp t\'e1c x\'e3. C\'e1c }{\f38\insrsid15224060\charrsid10623770 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 a ph
+\'fd\'f5ng c}{\f0\insrsid15224060\charrsid10623770 \u7847\'3fn nghi\'ean c\u7913\'3fu v\u7853\'3fn d\u7909\'3fng cho ph\'f9 h\u7907\'3fp.
+\par 4. S\u7917\'3f d\u7909\'3fng v\u7889\'3fn kh\u7845\'3fu hao t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh:
+\par - S\u7889\'3f ti\u7873\'3fn kh\u7845\'3f}{\f38\insrsid15224060\charrsid10623770 u hao \'f0}{\f0\insrsid15224060\charrsid10623770 \'e3 tr\'edch trong n}{\f46\insrsid15224060\charrsid10623770 \'e3m \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f
+c t\'ednh chi ph\'ed s\u7843\'3fn xu\u7845\'3ft c\u7911\'3fa t\'f9ng ng\'e0nh theo nguy\'ean t\u7855\'3fc t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh thu\u7897\'3fc ng\'e0
+nh n\'e0o th\'ec s\u7889\'3f ti\u7873\'3fn kh\u7845\'3f}{\f38\insrsid15224060\charrsid10623770 u hao \'f0}{\f0\insrsid15224060\charrsid10623770 \'e3 tr\'edch }{\f46\insrsid15224060\charrsid10623770 \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f
+c t\'ednh v\'e0o chi ph\'ed s\u7843\'3fn xu\u7845\'3ft c\u7911\'3fa ng\'e0nh \u7845\'3fy.
+\par - S\u7889\'3f ti\u7873\'3fn kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn v\'e0 kh\u7845\'3fu hao s\u7917\'3fa ch\u7919\'3fa l\u7899\'3f}{\f46\insrsid15224060\charrsid10623770 n tr\'ed
+ch h\'e0ng n\'e3m l\'e0 m}{\f0\insrsid15224060\charrsid10623770 \u7897\'3ft trong nh\u7919\'3fng ngu\u7891\'3fn v\u7889\'3fn ch\u7911\'3f y\u7871\'3fu t\u7841\'3fo th\'e0nh v\u7889\'3fn x\'e2y d\u7921\'3f}{\f46\insrsid15224060\charrsid10623770 ng c\'f5 b}
+{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn, mua s\u7855\'3fm v\'e0 s\u7917\'3fa ch\u7919\'3fa l\u7899\'3fn t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh c\u7911\'3f
+a h\u7907\'3fp t\'e1c x\'e3. 
+\par 
+\par }\pard \qc \li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f38\fs20\insrsid15224060\charrsid10623770 III- \'d0I}{\f0\fs20\insrsid15224060\charrsid10623770 \u7872\'3fU CH\u7880\'3fNH GI\'c1 T\'c0
+I S\u7842\'3fN C\u7888\'3f}{\f38\fs20\insrsid15224060\charrsid10623770  \'d0}{\f0\fs20\insrsid15224060\charrsid10623770 \u7882\'3fNH 
+\par }\pard \qj \fi567\li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\insrsid15224060\charrsid10623770 
+\par }{\f38\insrsid15224060\charrsid10623770 \'d0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f thu h\u7891\'3f}{\f38\insrsid15224060\charrsid10623770 i \'f0}{\f0\insrsid15224060\charrsid10623770 \u7911\'3f v\u7889\'3fn cho vi\u7879\'3f}{
+\f38\insrsid15224060\charrsid10623770 c \'f0}{\f0\insrsid15224060\charrsid10623770 \u7893\'3fi m\u7899\'3fi t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh, v\'e0 b\u7843\'3f}
+{\f38\insrsid15224060\charrsid10623770 o \'f0}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fm s\u7921\'3f th\u7889\'3fng nh\u7845\'3ft gi\u7919\'3fa c\'e1c h\u7907\'3fp t\'e1c x\'e3 trong vi\u7879\'3fc h\u7841\'3fch to\'e1n t\'e0i s\u7843\'3fn c\u7889
+\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh, trong khi ch\u7901\'3f quy\u7871\'3f}{\f38\insrsid15224060\charrsid10623770 t \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh c\u7911\'3f}{
+\f46\insrsid15224060\charrsid10623770 a Nh\'e0 n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc v\u7873\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0\'e1nh gi\'e1 l}{\f0\insrsid15224060\charrsid10623770 \u7841\'3fi t\'e0i s\u7843\'3fn c\u7889
+\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh trong khu v\u7921\'3fc kinh t\u7871\'3f t\u7853\'3fp th\u7875\'3f, Li\'ean B\u7897\'3f T\'e0i ch\'ednh - N\'f4ng nghi\u7879\'3f}{
+\f46\insrsid15224060\charrsid10623770 p h\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fng d\u7851\'3fn t\u7841\'3fm th\u7901\'3fi vi\u7879\'3f}{\f38\insrsid15224060\charrsid10623770 c \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881
+\'3fnh gi\'e1 t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 nh nh\'fd sau:
+\par }{\f0\insrsid15224060\charrsid10623770 1. Nguy\'ean t\u7855\'3fc chung:
+\par M\u7885\'3fi t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f38\insrsid15224060\charrsid10623770 nh \'f0}{\f0\insrsid15224060\charrsid10623770 \'e3 x\'e2y d\u7921\'3fng ho
+\u7863\'3fc mua s\u7855\'3f}{\f46\insrsid15224060\charrsid10623770 m tr\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{\f46\insrsid15224060\charrsid10623770 c ng\'e0y 1-7-1986 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7873\'3f}{
+\f46\insrsid15224060\charrsid10623770 u \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f}{\f38\insrsid15224060\charrsid10623770 c \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh l\u7841\'3f}{
+\f46\insrsid15224060\charrsid10623770 i nguy\'ean gi\'e1. Khi \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh l\u7841\'3fi nguy\'ean gi\'e1, ph\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 i \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7891\'3fng th\u7901\'3f}{\f38\insrsid15224060\charrsid10623770 i \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh l\u7841\'3fi ph\u7847\'3fn kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 
+u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \'e3 tr\'edch theo t\u7927\'3f l\u7879\'3f}{\f46\insrsid15224060\charrsid10623770  t\'fd\'f5ng }{
+\f0\insrsid15224060\charrsid10623770 \u7913\'3fng gi\u7919\'3fa nguy\'ean gi\'e1 m\u7899\'3fi v\'e0 nguy\'ean gi\'e1 c\u361\'75 c\u7911\'3fa t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh.
+\par 2. Nguy\'ean gi\'e1 t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 nh \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f}{
+\f38\insrsid15224060\charrsid10623770 c \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3f}{\f46\insrsid15224060\charrsid10623770 nh nh\'fd sau:
+\par }{\f0\insrsid15224060\charrsid10623770 - Nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh m\'e0 ngu\u7891\'3fn ch\u7911\'3f y\u7871\'3f}{
+\f46\insrsid15224060\charrsid10623770 u do Nh\'e0 n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc cung c\u7845\'3fp th\'ec }{\f38\insrsid15224060\charrsid10623770 \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh theo gi\'e1
+ hi\u7879\'3fn h\'e0nh c\u7911\'3f}{\f46\insrsid15224060\charrsid10623770 a Nh\'e0 n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc. Ri\'eang nh\u7919\'3fng t\'e0i s\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{
+\f0\insrsid15224060\charrsid10623770 \'e3 mua ngo\'e0i v\u7899\'3f}{\f46\insrsid15224060\charrsid10623770 i gi\'e1 cao h\'f5n gi\'e1 Nh\'e0 n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc hi\u7879\'3fn h\'e0nh th\'ec ghi theo gi\'e1 th\u7921\'3f
+c t\u7871\'3f mua.
+\par - Nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh m\'e0 ngu\u7891\'3fn ch\u7911\'3f y\u7871\'3fu do mua ngo\'e0i th\'ec }{\f38\insrsid15224060\charrsid10623770 
+\'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh theo gi\'e1 c\'f3 th\u7875\'3f}{\f46\insrsid15224060\charrsid10623770  mua \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc hi\u7879\'3fn nay.
+\par - Nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh do h\u7907\'3fp t\'e1c x\'e3 t\u7921\'3f x\'e2y d\u7921\'3fng th\'ec }{\f38\insrsid15224060\charrsid10623770 
+\'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh theo gi\'e1 c\'f3 th\u7875\'3f x\'e2y d\u7921\'3f}{\f46\insrsid15224060\charrsid10623770 ng \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc hi\u7879\'3fn nay.
+\par 3. V\'ed d\u7909\'3f:
+\par M\u7897\'3f}{\f46\insrsid15224060\charrsid10623770 t m\'e1y b\'f5m n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{\f38\insrsid15224060\charrsid10623770 c \'f0ang s}{\f0\insrsid15224060\charrsid10623770 \u7917\'3f d\u7909\'3fng c\u7911\'3fa h
+\u7907\'3fp t\'e1c x\'e3 A v\u7899\'3f}{\f46\insrsid15224060\charrsid10623770 i gi\'e1 mua tr\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{\f46\insrsid15224060\charrsid10623770 c ng\'e0y 1-7-1986 l\'e0 4.000 \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7891\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \'e3 tr\'edch kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 
+\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 n 1.600 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3fng theo b\u7843\'3fng gi\'e1 hi\u7879\'3fn h\'e0nh c\u7911\'3f}{\f46\insrsid15224060\charrsid10623770 a Nh\'e0 n\'fd}{
+\f0\insrsid15224060\charrsid10623770 \u7899\'3fc, gi\'e1 c\u7911\'3fa lo\u7841\'3f}{\f46\insrsid15224060\charrsid10623770 i m\'e1y b\'f5m n\'e0y l\'e0 20.000 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3fng.
+\par V\u7853\'3fy:
+\par - Nguy\'ean gi\'e1 m\u7899\'3fi c\u7911\'3f}{\f46\insrsid15224060\charrsid10623770 a m\'e1y b\'f5m n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{\f46\insrsid15224060\charrsid10623770 c \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f}{
+\f38\insrsid15224060\charrsid10623770 c \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3f}{\f46\insrsid15224060\charrsid10623770 nh l\'e0 20.000 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3fng.
+\par - Kh\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 u hao c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \'e3 tr\'edch }{\f46\insrsid15224060\charrsid10623770 
+\'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f}{\f38\insrsid15224060\charrsid10623770 c \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ch\u7881\'3fnh l\'e0:
+\par                                     20.000
+\par }{\f38\insrsid15224060\charrsid10623770                 1.600 \'f0 x -------------- = 8.000 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3fng.
+\par                                      4.000 
+\par 
+\par }\pard \qc \li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\fs20\insrsid15224060\charrsid10623770 IV- QU\u7842\'3fN L\'dd T\'c0I S\u7842\'3fN C\u7888\'3f}{
+\f38\fs20\insrsid15224060\charrsid10623770  \'d0}{\f0\fs20\insrsid15224060\charrsid10623770 \u7882\'3fNH 
+\par }\pard \qj \fi567\li0\ri0\sa120\sl240\slmult0\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\insrsid15224060\charrsid10623770 
+\par 1. H\u7907\'3fp t\'e1c x\'e3 ph\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 i huy \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng h\u7871\'3ft s\u7889\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh hi\u7879\'3fn c\'f3 v\'e0o s\u7917\'3f d\u7909\'3f}{\f38\insrsid15224060\charrsid10623770 ng. \'d0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3fi v\u7899\'3fi nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889
+\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 nh tr\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc m\u7855\'3f}{\f46\insrsid15224060\charrsid10623770 t ch
+\'fda c}{\f0\insrsid15224060\charrsid10623770 \u7847\'3fn d\'f9ng ph\u7843\'3fi ni\'eam c\u7845\'3ft v\'e0 c\u7917\'3f}{\f46\insrsid15224060\charrsid10623770  ng\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3f}{\f38\insrsid15224060\charrsid10623770 
+i tr\'f4ng coi chu \'f0\'e1o.
+\par }{\f0\insrsid15224060\charrsid10623770 2. Vi\u7879\'3fc mua s\u7855\'3fm x\'e2y d\u7921\'3fng m\u7899\'3fi t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh ph\u7843\'3f}{
+\f38\insrsid15224060\charrsid10623770 i \'f0\'e1p }{\f0\insrsid15224060\charrsid10623770 \u7913\'3fng y\'eau c\u7847\'3fu ph\'e1t tri\u7875\'3fn s\u7843\'3fn xu\u7845\'3ft kinh doanh, c\u7843\'3fi thi\u7879\'3f}{\f38\insrsid15224060\charrsid10623770 n 
+\'f0}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fi s\u7889\'3fng v\'e0 ph\u7843\'3fi ph\'f9 h\u7907\'3fp v\u7899\'3fi kh\u7843\'3f}{\f38\insrsid15224060\charrsid10623770  n\'e3ng v}{\f0\insrsid15224060\charrsid10623770 \u7873\'3f v\u7889\'3fn c\u7911
+\'3fa h\u7907\'3fp t\'e1c x\'e3. Qu\'e1 tr\'ecnh x\'e2y d\u7921\'3fng, mua s\u7855\'3fm, s\u7917\'3fa ch\u7919\'3fa ph\u7843\'3fi c\'f3 quy ho\u7841\'3fch, k\u7871\'3f ho\u7841\'3fch c\u7909\'3f th\u7875\'3f v\'e0 t\u7853\'3fp trung v\u7889\'3f}{
+\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f mua s\u7855\'3fm x\'e2y d\u7921\'3fng nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh ch\u7911\'3f y\u7871\'3fu ph\u7909\'3fc v\u7909\'3f cho s\u7843\'3fn xu\u7845\'3ft kinh doanh c\u7911\'3fa h\u7907\'3fp t\'e1c x\'e3, nhanh ch\'f3ng }{\f46\insrsid15224060\charrsid10623770 \'f0\'fda nh}{
+\f0\insrsid15224060\charrsid10623770 \u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh m\u7899\'3fi mua s\u7855\'3fm x\'e2y d\u7921\'3fng xong v\'e0o s\u7917\'3f d
+\u7909\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f ph\'e1t huy hi\u7879\'3fu qu\u7843\'3f kinh t\u7871\'3f.
+\par 3. Ph\u7843\'3fi c\'f3 n\u7897\'3fi dung qu\u7843\'3fn l\'fd, s\u7917\'3f d\u7909\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3fi v\u7899\'3fi t\u7915\'3fng lo\u7841\'3fi t\'e0i s\u7843\'3fn c\u7889\'3f
+}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh, n\u7897\'3fi quy c\u7847\'3f}{\f38\insrsid15224060\charrsid10623770 n quy \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh r\'f5 c\'e1c m\u7863\'3ft:
+
+\par Qu\u7843\'3fn l\'fd b\u7843\'3fo v\u7879\'3f}{\f38\insrsid15224060\charrsid10623770 , ch\'e3m s\'f3c b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3f}{\f46\insrsid15224060\charrsid10623770 o d\'fd}{\f0\insrsid15224060\charrsid10623770 \u7905\'3fng, s
+\u7917\'3f d\u7909\'3fng c\'f3 hi\u7879\'3f\u7909\'3f qu\u7843\'3f.
+\par Th\u7921\'3fc hi\'ean ch\u7871\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3f giao kho\'e1n qu\u7843\'3fn l\'fd s\u7917\'3f d\u7909\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{
+\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh cho t\u7915\'3f}{\f46\insrsid15224060\charrsid10623770 ng \'f0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f ho\u7863\'3fc t\u7915\'3fng c\'e1 nh\'e2
+n, g\u7855\'3fn tr\'e1ch nhi\u7879\'3fm v\u7853\'3ft ch\u7845\'3ft v\u7899\'3fi t\'ecnh h\'ecnh qu\u7843\'3fn l\'fd s\u7917\'3f d\u7909\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh.
+\par }{\f38\insrsid15224060\charrsid10623770 - \'d0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3fi v\u7899\'3fi ru\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft:
+\par H\u7907\'3fp t\'e1c x\'e3 ph\u7843\'3fi qu\u7843\'3fn l\'fd v\'e0 s\u7917\'3f d\u7909\'3fng t\u7889\'3ft ru\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft hi\u7879\'3fn c\'f3. Ph\u7843\'3f}{
+\f38\insrsid15224060\charrsid10623770 i kho\'e1n cho \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fi, t\u7893\'3f ho\u7863\'3fc x\'e3 vi\'ean qu\u7843\'3fn l\'fd v\'e0 s\u7917\'3f d\u7909\'3fng. Ph\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 
+i \'f0}{\f0\insrsid15224060\charrsid10623770 \u7847\'3f}{\f46\insrsid15224060\charrsid10623770 u t\'fd chi ph\'ed h}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fp l\'fd v\'e0 t\u7841\'3f}{\f38\insrsid15224060\charrsid10623770 o \'f0i}{
+\f0\insrsid15224060\charrsid10623770 \u7873\'3fu ki\u7879\'3fn thu\u7853\'3fn l\u7907\'3fi cho x\'e3 vi\'ean }{\f38\insrsid15224060\charrsid10623770 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7841\'3f}{\f38\insrsid15224060\charrsid10623770 t n\'e3ng su}
+{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft cao nh\u7845\'3ft tr\'ean ru\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft m\'e0 h\u7885\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \'e3 nh\u7853\'3f}{\f46\insrsid15224060\charrsid10623770 n kho\'e1n. Tr\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng h\u7907\'3fp, h\u7907\'3fp t\'e1c x\'e3 kh\'f4ng canh t\'e1c h\u7871\'3ft di\u7879\'3fn t
+\'edch th\'ec tu\u7923\'3f t\'ecnh h\'ecnh c\u7909\'3f th\u7875\'3f, h\u7907\'3fp t\'e1c x\'e3 c\'f3 th\u7875\'3f cho x\'e3 vi\'ean, }{\f46\insrsid15224060\charrsid10623770 \'f0o\'e0n th}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f}{
+\f46\insrsid15224060\charrsid10623770 , c\'f5 quan hay \'f0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f b\u7897\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3f}{
+\f46\insrsid15224060\charrsid10623770 i m\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f gieo tr\u7891\'3f}{\f38\insrsid15224060\charrsid10623770 ng theo 
+\'f0\'fang tinh th}{\f0\insrsid15224060\charrsid10623770 \u7847\'3fn Ngh\u7883\'3f quy\u7871\'3ft s\u7889\'3f 318-CP ng\'e0y 10-9-1979 c\u7911\'3fa H\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 i \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3f
+ng Ch\'ednh ph\u7911\'3f v\u7873\'3f vi\u7879\'3fc t\u7853\'3fn d\u7909\'3fng ru\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft n\'f4ng nghi\u7879\'3fp.
+\par }{\f38\insrsid15224060\charrsid10623770 - \'d0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3fi v\u7899\'3fi s\'fac v\u7853\'3ft ph\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 i giao kho\'e1n cho gia \'f0}{\f0\insrsid15224060\charrsid10623770 \'ec
+nh x\'e3 vi\'ean nu\'f4i d}{\f46\insrsid15224060\charrsid10623770 \'fd}{\f0\insrsid15224060\charrsid10623770 \u7905\'3f}{\f38\insrsid15224060\charrsid10623770 ng, ch\'e3m s\'f3c, b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fo v\u7879\'3f}{
+\f38\insrsid15224060\charrsid10623770  chu \'f0\'e1o. S}{\f0\insrsid15224060\charrsid10623770 \u7917\'3f d\u7909\'3fng tr\'e2u b\'f2 l\'e0m vi\u7879\'3fc ph\u7843\'3fi theo s\u7921\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0i}{
+\f0\insrsid15224060\charrsid10623770 \u7873\'3fu h\'e0nh chung c\u7911\'3fa h\u7907\'3fp t\'e1c x\'e3 ho\u7863\'3f}{\f38\insrsid15224060\charrsid10623770 c \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fi s\u7843\'3fn xu\u7845\'3f}{
+\f46\insrsid15224060\charrsid10623770 t v\'e0 theo \'f0\'fang n}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fi qui s\u7917\'3f d\u7909\'3fng tr\'e2u b\'f2 c\'e0y k\'e9o c\u7911\'3fa h\u7907\'3fp t\'e1c x\'e3.
+\par }{\f38\insrsid15224060\charrsid10623770 - \'d0}{\f0\insrsid15224060\charrsid10623770 \u7889\'3fi v\u7899\'3fi m\'e1y m\'f3c thi\u7871\'3ft b\u7883\'3f k\u7929\'3f thu\u7853\'3ft ph\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 i kho\'e1n cho ng\'fd}{
+\f0\insrsid15224060\charrsid10623770 \u7901\'3fi c\'f3 tr\'ecnh }{\f38\insrsid15224060\charrsid10623770 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3f chuy\'ean m\'f4n ph\u7909\'3f tr\'e1ch qu\u7843\'3fn l\'fd v\'e0 s\u7917\'3f d\u7909\'3fng. Ph
+\u7843\'3f}{\f38\insrsid15224060\charrsid10623770 i c\'f3 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7911\'3f h\u7891\'3f}{\f46\insrsid15224060\charrsid10623770  s\'f5 l}{\f0\insrsid15224060\charrsid10623770 \'fd l\u7883\'3fch m\'e1y, th\u7921\'3fc hi
+\u7879\'3fn b\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 o d\'fd}{\f0\insrsid15224060\charrsid10623770 \u7905\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh k\u7923\'3f}{
+\f38\insrsid15224060\charrsid10623770  theo qui \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh k\u7929\'3f thu\u7853\'3ft, b\u7843\'3fo qu\u7843\'3fn m\'e1y l\'e2u b\u7873\'3fn v\'e0 n\'e2ng cao hi\u7879\'3fu su\u7845\'3ft s\u7917\'3f d\u7909\'3f
+ng m\'e1y.
+\par 4. Ti\u7871\'3fn h\'e0nh ki\u7875\'3fm k\'ea t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f38\insrsid15224060\charrsid10623770 nh theo \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh k\u7923\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f}{\f46\insrsid15224060\charrsid10623770  th\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3f
+ng xuy\'ean n\u7855\'3f}{\f46\insrsid15224060\charrsid10623770 m \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc t\'ecnh h\'ecnh bi\u7871\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng v
+\u7873\'3f s\u7889\'3f}{\f46\insrsid15224060\charrsid10623770  l\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fng, ch\u7845\'3f}{\f46\insrsid15224060\charrsid10623770 t l\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fng v\'e0 gi\'e1 tr\u7883
+\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh. Ph\u7843\'3fi m\u7903\'3f s\u7893\'3f}{\f38\insrsid15224060\charrsid10623770  s\'e1ch \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7875\'3f ghi ch\'e9p, theo d\'f5i s\u7921\'3f bi\u7871\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng c\u7911\'3fa t\u7915\'3f}{
+\f46\insrsid15224060\charrsid10623770 ng \'f0\'f5n v}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f, t\u7915\'3fng lo\u7841\'3fi v\'e0 to\'e0n b\u7897\'3f t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{
+\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh. Ph\u7843\'3fi thanh l\'fd k\u7883\'3fp th\u7901\'3fi nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{
+\f46\insrsid15224060\charrsid10623770 nh h\'fd h}{\f0\insrsid15224060\charrsid10623770 \u7887\'3fng kh\'f4ng c\'f2n s\u7917\'3f d\u7909\'3f}{\f46\insrsid15224060\charrsid10623770 ng \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc n\u7919\'3f}{
+\f46\insrsid15224060\charrsid10623770 a, nh\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fng b\'e1n nh\u7919\'3fng t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh th
+\u7921\'3fc s\u7921\'3f kh\'f4ng c\'f2n d\'f9ng }{\f38\insrsid15224060\charrsid10623770 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f thu h\u7891\'3fi v\u7889\'3fn cho vi\u7879\'3f}{\f46\insrsid15224060\charrsid10623770 c x\'e2y d\'fdng v\'e0
+ mua s}{\f0\insrsid15224060\charrsid10623770 \u7855\'3fm m\u7899\'3fi t\'e0i s\u7843\'3fn c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh.
+\par }{\f46\insrsid15224060\charrsid10623770 Th\'f4ng t\'fd n\'e0y \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7907\'3fc thi h\'e0nh k\u7875\'3f t\u7915\'3f ng\'e0y k\'fd. C\'e1c S\u7903\'3f T\'e0i ch\'ednh, S\u7903\'3f N\'f4ng nghi\u7879\'3fp c\'f3 tr
+\'e1ch nhi\u7879\'3fm gi\'fap U\u7927\'3f ban nh\'e2n d\'e2n t\u7881\'3fnh, th\'e0nh ph\u7889\'3f nghi\'ean c\u7913\'3fu v\u7853\'3fn d\u7909\'3f}{\f46\insrsid15224060\charrsid10623770 ng v\'e0 h\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fng d
+\u7851\'3fn c\u7909\'3f th\u7875\'3f cho h\u7907\'3fp t\'e1c x\'e3 \u7903\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3f}{\f46\insrsid15224060\charrsid10623770 a ph\'fd\'f5ng m}{
+\f0\insrsid15224060\charrsid10623770 \'ecnh. Trong qu\'e1 tr\'ecnh tri\u7875\'3fn khai th\u7921\'3fc hi\u7879\'3fn, c\'f3 g\'ec c\u7847\'3fn b\u7893\'3f sung s\u7917\'3f}{\f38\insrsid15224060\charrsid10623770 a \'f0}{\f0\insrsid15224060\charrsid10623770 
+\u7893\'3fi, k\u7883\'3fp th\u7901\'3fi b\'e1o c\'e1o v\u7873\'3f Li\'ean B\u7897\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f nghi\'ean c\u7913\'3fu gi\u7843\'3fi quy\u7871\'3ft. 
+\par 
+\par }\pard \qc \li0\ri0\sl240\slmult0\keepn\widctlpar\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0\itap0 {\f0\fs22\insrsid15224060\charrsid10623770 T\u7926\'3f L\u7878\'3f M\u7850\'3fU KH\u7844\'3fU HAO T\'c0I S\u7842\'3fN C\u7888\'3f}{
+\f38\fs22\insrsid15224060\charrsid10623770  \'d0}{\f0\fs22\insrsid15224060\charrsid10623770 \u7882\'3fNH
+\par }{\i\f0\fs22\insrsid15224060\charrsid10623770 (Ph\u7847\'3f}{\i\f46\fs22\insrsid15224060\charrsid10623770 n tr\'e3m nguy\'ean gi\'e1 t\'e0i s}{\i\f0\fs22\insrsid15224060\charrsid10623770 \u7843\'3fn c\u7889\'3f}{
+\i\f38\fs22\insrsid15224060\charrsid10623770  \'f0}{\i\f0\fs22\insrsid15224060\charrsid10623770 \u7883\'3fnh)  
+\par }{\i\f0\insrsid15224060\charrsid10623770 
+\par }\trowd \irow0\irowband0\ts11\trgaph108\trleft0\trbrdrt\brdrs\brdrw15\brdrcf2 \trbrdrl\brdrs\brdrw15\brdrcf2 \trbrdrb\brdrs\brdrw15\brdrcf2 \trbrdrr\brdrs\brdrw15\brdrcf2 \trbrdrh\brdrs\brdrw15\brdrcf2 \trbrdrv\brdrs\brdrw15\brdrcf2 
+\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth4962\clshdrawnil \cellx4962
+\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx6147\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl
+\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx7332\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr
+\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1316\clshdrawnil \cellx8648\pard \qc \li0\ri0\sl240\slmult0\widctlpar\intbl\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 T\'ean t\'e0i s\u7843\'3f
+n c\u7889\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7883\'3fnh\cell T\u7927\'3f l\u7879\'3f
+\par  kh\u7845\'3fu hao
+\par chung \cell T\u7927\'3f l\u7879\'3f
+\par kh\u7845\'3fu hao
+\par }{\f46\insrsid15224060\charrsid10623770  c\'f5 b}{\f0\insrsid15224060\charrsid10623770 \u7843\'3fn \cell T\u7927\'3f l\u7879\'3f kh\u7845\'3fu
+\par  hao s\u7917\'3fa
+\par   s\u7917\'3fa l\u7899\'3fn \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 \trowd \irow0\irowband0\ts11\trgaph108\trleft0\trbrdrt\brdrs\brdrw15\brdrcf2 \trbrdrl
+\brdrs\brdrw15\brdrcf2 \trbrdrb\brdrs\brdrw15\brdrcf2 \trbrdrr\brdrs\brdrw15\brdrcf2 \trbrdrh\brdrs\brdrw15\brdrcf2 \trbrdrv\brdrs\brdrw15\brdrcf2 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl
+\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth4962\clshdrawnil \cellx4962\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr
+\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx6147\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 
+\cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx7332\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1316\clshdrawnil \cellx8648\row 
+}\pard \qc \li0\ri0\sa120\sl240\slmult0\widctlpar\intbl\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 1\cell 2\cell 3\cell 4\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 \trowd \irow1\irowband1\ts11\trgaph108\trleft0\trbrdrt\brdrs\brdrw15\brdrcf2 \trbrdrl\brdrs\brdrw15\brdrcf2 \trbrdrb\brdrs\brdrw15\brdrcf2 
+\trbrdrr\brdrs\brdrw15\brdrcf2 \trbrdrh\brdrs\brdrw15\brdrcf2 \trbrdrv\brdrs\brdrw15\brdrcf2 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 
+\clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth4962\clshdrawnil \cellx4962\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 
+\cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx6147\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx7332
+\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1316\clshdrawnil \cellx8648\row }\pard \qj \li0\ri0\sa120\sl240\slmult0\widctlpar\intbl
+\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 I- Nh\'e0 c\u7917\'3fa, kho t\'e0ng
+\par 1. Nh\'e0 ph\u7909\'3fc v\u7909\'3f s\u7843\'3fn xu\u7845\'3ft v\'e0 kh\'f4ng c\'f3 t\'ednh s\u7843\'3fn
+\par xu\u7845\'3ft 
+\par - Nh\'e0 cao t\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 ng, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng g\u7841\'3fch, m\'e1i b\u7857\'3fng ho\u7863\'3fc l\u7907\'3fp 
+\par ng\'f3i
+\par - Nh\'e0 1 t\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 ng, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng g\u7841\'3fch 20, m\'e1i b\u7857\'3fng ho\u7863\'3fc l\u7907\'3fp 
+\par ng\'f3i 
+\par - Nh\'e0 1 t\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 ng, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng g\u7841\'3fch x\'e2y 10, m\'e1i ng\'f3i
+\par - Nh\'e0 1 t\u7847\'3fng, c\u7897\'3ft g\u7895\'3f ho\u7863\'3f}{\f46\insrsid15224060\charrsid10623770 c tre, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng to\'f3c-xi, m\'e1i 
+\par l\'e1, n\u7913\'3fa, gi\u7845\'3fy d\u7847\'3fu
+\par - Nh\'e0 l\u7855\'3fp gh\'e9p, khung b\u7857\'3fng kim lo\u7841\'3fi
+\par - Nh\'e0 l\u7855\'3fp gh\'e9p khung b\u7857\'3fng g\u7895\'3f
+\par - Qu\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 y b\'e1n h\'e0ng b\'e1ch ho\'e1 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fc l\u7853\'3fp, qu\u7847\'3fy gi\u7843\'3fi 
+\par kh\'e1t, qu\u7847\'3fy b\'e1n rau qu\u7843\'3f
+\par 2. Nh\'e0 \u7903\'3f
+\par - Nh\'e0 cao t\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 ng, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng g\u7841\'3fch x\'e2y, m\'e1i b\u7857\'3fng ho\u7863\'3fc 
+\par ng\'f3i
+\par - Nh\'e0 1 t\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 ng, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng g\u7841\'3fch x\'e2y, m\'e1i b\u7857\'3fng ho\u7863\'3fc 
+\par ng\'f3i
+\par - Nh\'e0 1 t\u7847\'3f}{\f46\insrsid15224060\charrsid10623770 ng, t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng g\u7895\'3f \'e9p, m\'e1i l\'e1 c\u7885\'3f ho\u7863\'3fc gi\u7845\'3fy 
+\par d\u7847\'3fu
+\par }{\f46\insrsid15224060\charrsid10623770 II- K\'eanh m\'fd\'f5ng, c}{\f0\insrsid15224060\charrsid10623770 \u7847\'3f}{\f46\insrsid15224060\charrsid10623770 u \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng v\'e0 v\u7853\'3ft ki\u7871\'3fn tr
+\'fac kh\'e1c
+\par }{\f46\insrsid15224060\charrsid10623770 1. K\'eanh, m\'fd\'f5ng, m\'e1ng 
+\par }{\f0\insrsid15224060\charrsid10623770 - M\u7841\'3f}{\f46\insrsid15224060\charrsid10623770 ng l\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{\f46\insrsid15224060\charrsid10623770 i m\'fd\'f5ng m\'e1ng t\'fd}{\f0\insrsid15224060\charrsid10623770 
+\u7899\'3f}{\f46\insrsid15224060\charrsid10623770 i ti\'eau n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc
+\par - K\'eanh d\u7851\'3f}{\f46\insrsid15224060\charrsid10623770 n n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc kh\'e1c
+\par 2. C\u7889\'3f}{\f46\insrsid15224060\charrsid10623770 ng n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc
+\par - C\u7889\'3fng b\'ea t\'f4ng
+\par - C\u7889\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0\'e1 x\'e2y
+\par }{\f0\insrsid15224060\charrsid10623770 - C\u7889\'3fng g\u7841\'3fch x\'e2y
+\par 3. C\u7847\'3fu
+\par - C\u7847\'3fu b\'ea t\'f4ng
+\par - C\u7847\'3fu s\u7855\'3ft
+\par - C\u7847\'3fu g\u7895\'3f
+\par 4.}{\f46\insrsid15224060\charrsid10623770  \'d0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng
+\par }{\f46\insrsid15224060\charrsid10623770 - \'d0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3f}{\f38\insrsid15224060\charrsid10623770 ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft
+\par 5. V\u7853\'3ft ki\u7871\'3fn tr\'fac kh\'e1c
+\par - H\u7891\'3f nu\'f4i c\'e1 kh\'f4ng x\'e2y l\'e1t
+\par - H\u7891\'3f nu\'f4i c\'e1 c\'f3 x\'e2y l\'e1t
+\par III- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f d\'f9ng cho s\u7843\'3fn xu\u7845\'3ft n\'f4ng 
+\par l\'e2m nghi\u7879\'3fp:
+\par }{\f46\insrsid15224060\charrsid10623770 1. M\'e1y l\'e0m \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft,gieo tr\u7891\'3f}{\f46\insrsid15224060\charrsid10623770 ng v\'e0 ch\'e3m s\'f3c c\'e2y 
+\par }{\f0\insrsid15224060\charrsid10623770 - M\'e1y c\'e0y, m\'e1y b\u7915\'3fa v\'e0 m\'e1y nh\u7893\'3f c\u7887\'3f
+\par }{\f46\insrsid15224060\charrsid10623770 - C\'e0y \'f0i theo m\'e1y, b}{\f0\insrsid15224060\charrsid10623770 \u7915\'3f}{\f38\insrsid15224060\charrsid10623770 a \'f0}{\f0\insrsid15224060\charrsid10623770 i theo m\'e1y
+\par - M\'e1y x\u7899\'3f}{\f38\insrsid15224060\charrsid10623770 i \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft 
+\par - M\'e1y vun lu\u7889\'3fng
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y phun t\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f}{\f46\insrsid15224060\charrsid10623770 i n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc k\'e8m m\'e1y k\'e9o hay m\'e1y n\u7893\'3f
+
+\par - M\'e1y phun thu\u7889\'3fc tr\u7915\'3f s\'e2u k\'e8m m\'e1y k\'e9o hay m\'e1y 
+\par n\u7893\'3f 
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y l\'e0m \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft gieo h\u7841\'3f}{\f46\insrsid15224060\charrsid10623770 t v\'e0 ch\'e3m s\'f3c c\'e2y kh\'e1c
+\par }{\f0\insrsid15224060\charrsid10623770 2. M\'e1y thu ho\u7841\'3fch s\u7843\'3fn ph\u7849\'3fm c\'e2y tr\u7891\'3fng 
+\par }{\f38\insrsid15224060\charrsid10623770 - M\'e1y \'f0}{\f0\insrsid15224060\charrsid10623770 \u7853\'3fp l\'faa, tu\u7889\'3ft l\'faa
+\par }{\f46\insrsid15224060\charrsid10623770 3. M\'e1y n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc n\'f4ng nghi\u7879\'3fp kh\'e1c
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y b\'f5m n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fc c\'e1c lo\u7841\'3fi
+\par - M\'e1y ch\u7871\'3f bi\u7871\'3fn th\u7913\'3f}{\f38\insrsid15224060\charrsid10623770 c \'e3n gia s\'fac
+\par }{\f0\insrsid15224060\charrsid10623770 - M\'e1y \u7845\'3fp tr\u7913\'3fng
+\par IV- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f ch\u7871\'3f bi\u7871\'3f}{\f46\insrsid15224060\charrsid10623770 n l\'fd\'f5ng th}{\f0\insrsid15224060\charrsid10623770 \u7921\'3fc, th\u7921\'3fc 
+\par ph\u7849\'3fm
+\par - M\'e1y xay, s\'e1t g\u7841\'3fo c\'e1c lo\u7841\'3fi
+\par - M\'e1y nghi\u7873\'3fn b\u7897\'3ft c\'e1c lo\u7841\'3fi 
+\par - M\'e1y \'e9p m\'eda 
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y l\'e0m \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng m\u7853\'3ft
+\par - M\'e1y m\'f3c thi\u7871\'3ft b\u7883\'3f ch\u7871\'3f bi\u7871\'3fn ch\'e8
+\par - M\'e1y m\'f3c thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft thu\u7889\'3fc l\'e1
+\par - M\'e1y m\'f3c thi\u7871\'3ft b\u7883\'3f ch\u7871\'3f bi\u7871\'3f}{\f46\insrsid15224060\charrsid10623770 n l\'fd\'f5ng th}{\f0\insrsid15224060\charrsid10623770 \u7921\'3fc th\u7921\'3fc 
+\par ph\u7849\'3fm kh\'e1c 
+\par V- M\'e1y c\'f4ng c\u7909\'3f}{\f38\insrsid15224060\charrsid10623770 , m\'e1y ph\'e1t \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng l\u7921\'3fc, m\'e1y ph\'e1t 
+\par }{\f38\insrsid15224060\charrsid10623770 \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn, bi\u7871\'3f}{\f38\insrsid15224060\charrsid10623770 n \'e1p \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn 
+\par 1. M\'e1y c\'f4ng c\u7909\'3f 
+\par - M\'e1y c\u7855\'3ft g\u7885\'3ft kim lo\u7841\'3fi c\'e1c lo\u7841\'3fi 
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y l\'e0m \'f0}{\f0\insrsid15224060\charrsid10623770 \u7891\'3f g\u7895\'3f c\'e1c lo\u7841\'3fi 
+\par - M\'e1y r\'e8n d\u7853\'3fp c\'e1c lo\u7841\'3fi 
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y h\'e0n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7855\'3fp kim lo\u7841\'3fi \cell 
+\par 
+\par 
+\par 6
+\par 
+\par 6
+\par 
+\par 7
+\par 10
+\par 
+\par 4
+\par 6
+\par 8 
+\par 
+\par 
+\par 
+\par 6
+\par 
+\par 6
+\par 
+\par 10
+\par 
+\par 
+\par 
+\par 3
+\par 3
+\par 
+\par 2,5
+\par 3
+\par 3,5
+\par 
+\par 4
+\par 5
+\par 10
+\par 
+\par 4
+\par 
+\par 4 
+\par 3
+\par 
+\par 
+\par 
+\par 12 
+\par 10  
+\par 12 
+\par 12  
+\par 12
+\par 12
+\par 
+\par 11 
+\par 
+\par 13
+\par 
+\par 12  
+\par 15
+\par 9
+\par 
+\par 
+\par 11
+\par 9 
+\par 11 
+\par 8
+\par 7
+\par 7
+\par 9
+\par 
+\par 
+\par 
+\par 8
+\par 6
+\par 9
+\par 10\cell 
+\par 
+\par 
+\par 4
+\par 
+\par 4
+\par 
+\par 5 
+\par 6
+\par 
+\par 3
+\par 4
+\par 4
+\par 
+\par 
+\par 
+\par 4
+\par 
+\par 4
+\par 
+\par 6
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 8 
+\par 8
+\par 8
+\par 8
+\par 8
+\par 8 
+\par 
+\par 7 
+\par 
+\par 9
+\par 
+\par 8 
+\par 10
+\par 6
+\par 
+\par 
+\par 7 
+\par 6
+\par 7 
+\par 6
+\par 5
+\par 5
+\par 6
+\par 
+\par 
+\par 
+\par 6
+\par 4
+\par 6
+\par 7\cell 
+\par 
+\par 
+\par 2
+\par 
+\par 2
+\par 
+\par 2
+\par 4
+\par 
+\par 1
+\par 2
+\par 4
+\par 
+\par 
+\par 
+\par 2
+\par 
+\par 2
+\par 
+\par 4
+\par 
+\par 
+\par 
+\par 3 
+\par 3
+\par 
+\par 2,5 
+\par 3
+\par 3,5
+\par 
+\par 4
+\par 5
+\par 10
+\par 
+\par 4 
+\par 
+\par 4 
+\par 3 
+\par 
+\par 
+\par 
+\par 4
+\par 2
+\par 4
+\par 4
+\par 4
+\par 4
+\par 
+\par 4 
+\par 
+\par 4
+\par 
+\par 4
+\par 5
+\par 3 
+\par 
+\par 
+\par 4 
+\par 3
+\par 4 
+\par 2
+\par 2
+\par 2
+\par 3
+\par 
+\par 
+\par 
+\par 2
+\par 2
+\par 3
+\par 3\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 \trowd \irow2\irowband2\ts11\trgaph108\trleft0\trbrdrt\brdrs\brdrw15\brdrcf2 \trbrdrl\brdrs\brdrw15\brdrcf2 \trbrdrb
+\brdrs\brdrw15\brdrcf2 \trbrdrr\brdrs\brdrw15\brdrcf2 \trbrdrh\brdrs\brdrw15\brdrcf2 \trbrdrv\brdrs\brdrw15\brdrcf2 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb
+\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth4962\clshdrawnil \cellx4962\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 
+\cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx6147\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx7332
+\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1316\clshdrawnil \cellx8648\row }\pard \qj \li0\ri0\sa120\sl240\slmult0\widctlpar\intbl
+\tx360\tx720\tx5130\tx6300\tx7560\faauto\adjustright\rin0\lin0 {\f38\insrsid15224060\charrsid10623770 2. M\'e1y ph\'e1t \'f0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3fng l\u7921\'3fc
+\par - M\'e1y n\u7893\'3f}{\f46\insrsid15224060\charrsid10623770  \'f0i\'eazen
+\par }{\f0\insrsid15224060\charrsid10623770 - M\'e1y n\u7893\'3f ch\u7841\'3f}{\f38\insrsid15224060\charrsid10623770 y x\'e3ng
+\par 3. M\'e1y ph\'e1t \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn 
+\par }{\f38\insrsid15224060\charrsid10623770 - \'d0}{\f0\insrsid15224060\charrsid10623770 \u7897\'3f}{\f46\insrsid15224060\charrsid10623770 ng c\'f5 \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn 1 kw tr\u7903\'3f l\'ean 
+\par - T\u7893\'3f}{\f38\insrsid15224060\charrsid10623770  m\'e1y ph\'e1t \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn ch\u7841\'3f}{\f38\insrsid15224060\charrsid10623770 y x\'e3ng t}{\f0\insrsid15224060\charrsid10623770 \u7915\'3f 1 kw tr\u7903\'3f
+ l\'ean 
+\par - T\u7893\'3f}{\f38\insrsid15224060\charrsid10623770  m\'e1y ph\'e1t \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn ch\u7841\'3f}{\f46\insrsid15224060\charrsid10623770 y \'f0i\'eazen t}{\f0\insrsid15224060\charrsid10623770 \u7915\'3f 1 kw tr
+\u7903\'3f l\'ean 
+\par - T\u7893\'3f}{\f38\insrsid15224060\charrsid10623770  m\'e1y ph\'e1t \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn ch\u7841\'3fy b\u7857\'3fng s\u7913\'3f}{\f46\insrsid15224060\charrsid10623770 c n\'fd}{\f0\insrsid15224060\charrsid10623770 
+\u7899\'3fc t\u7915\'3f 1 kw 
+\par tr\u7903\'3f l\'ean
+\par - T\u7893\'3f}{\f38\insrsid15224060\charrsid10623770  m\'e1y ph\'e1t \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn ch\u7841\'3fy b\u7857\'3f}{\f46\insrsid15224060\charrsid10623770 ng h\'f5i n\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3f
+c t\u7915\'3f 1 kw 
+\par tr\u7903\'3f l\'ean
+\par 4. Bi\u7871\'3f}{\f38\insrsid15224060\charrsid10623770 n \'e1p \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn c\'e1c lo\u7841\'3fi
+\par VI- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f d\'f9ng s\u7843\'3fn xu\u7845\'3ft v\u7853\'3ft 
+\par li\u7879\'3fu x\'e2y d\u7921\'3fng, s\'e0nh s\u7913\'3f, thu\u7927\'3f tinh
+\par 1. M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft g\u7841\'3fch, ng\'f3i
+\par - M\'e1y nh\'e0o, tr\u7897\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft 
+\par }{\f46\insrsid15224060\charrsid10623770 - M\'e1y \'f0\'f9n, \'e9p g}{\f0\insrsid15224060\charrsid10623770 \u7841\'3fch ng\'f3i
+\par - M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft g\u7841\'3fch ng\'f3i kh\'e1c
+\par 2. M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft s\'e0nh, s\u7913\'3f 
+\par - M\'e1y \'e9p, l\u7885\'3f}{\f38\insrsid15224060\charrsid10623770 c \'f0}{\f0\insrsid15224060\charrsid10623770 \u7845\'3ft 
+\par - M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft s\'e0nh, s\u7913\'3f kh\'e1c 
+\par 3. M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft thu\u7927\'3f tinh 
+\par - L\'f2 n\u7845\'3fu c\u7845\'3ft m\u7843\'3fnh thu\u7927\'3f tinh
+\par - Thi\u7871\'3ft b\u7883\'3f s\u7843\'3fn xu\u7845\'3ft thu\u7927\'3f tinh kh\'e1c
+\par }{\f46\insrsid15224060\charrsid10623770 VII- Ph\'fd\'f5ng ti}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn v\u7853\'3fn t\u7843\'3fi, b\u7889\'3fc d\u7905\'3f
+\par 1. V\u7853\'3fn t\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 i \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng b\u7897\'3f
+\par - Xe v\u7853\'3fn t\u7843\'3fi c\'f3 tr\u7885\'3fng t\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 i d\'fd}{\f0\insrsid15224060\charrsid10623770 \u7899\'3fi 2 t\u7845\'3fn
+\par - Xe v\u7853\'3fn t\u7843\'3fi c\'f3 tr\u7885\'3fng t\u7843\'3fi t\u7915\'3f}{\f38\insrsid15224060\charrsid10623770  2 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7871\'3fn 5 t\u7845\'3fn
+\par - Xe lam, \'f4 t\'f4 ba b\'e1nh \'b3
+\par - Xe ng\u7921\'3fa, xe tr\'e2u, xe b\'f2 k\'e9o 
+\par }{\f46\insrsid15224060\charrsid10623770 - R\'f5-mo\'f3c c\'e1c lo}{\f0\insrsid15224060\charrsid10623770 \u7841\'3fi
+\par 2. V\u7853\'3fn t\u7843\'3f}{\f46\insrsid15224060\charrsid10623770 i \'f0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3fng thu\u7927\'3f
+\par - Thuy\u7873\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0\'e1nh c\'e1 b}{\f0\insrsid15224060\charrsid10623770 \u7857\'3fng g\u7895\'3f
+\par - Thuy\u7873\'3fn v\u7853\'3fn t\u7843\'3fi b\u7857\'3fng g\u7895\'3f
+\par VIII- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f th\'f4ng tin, li\'ean l\u7841\'3fc
+\par - T\u7893\'3f}{\f46\insrsid15224060\charrsid10623770 ng \'f0\'e0i \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn tho\u7841\'3fi 
+\par }{\f38\insrsid15224060\charrsid10623770 - M\'e1y \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn tho\u7841\'3f}{\f38\insrsid15224060\charrsid10623770 i \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f b\'e0n
+\par }{\f38\insrsid15224060\charrsid10623770 - M\'e1y t\'e3ng \'e2m 
+\par }{\f0\insrsid15224060\charrsid10623770 - H\u7879\'3f th\u7889\'3fng m\'e1y truy\u7873\'3fn thanh 
+\par }{\f46\insrsid15224060\charrsid10623770 - \'d0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3f}{\f38\insrsid15224060\charrsid10623770 ng d\'e2y \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn c\'f3 c\u7897\'3ft b\u7857\'3fng g\u7895\'3f
+
+\par }{\f46\insrsid15224060\charrsid10623770 - \'d0\'fd}{\f0\insrsid15224060\charrsid10623770 \u7901\'3f}{\f38\insrsid15224060\charrsid10623770 ng d\'e2y \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn c\'f3 c\u7897\'3ft b\u7857\'3fng b\'ea t\'f4ng
+
+\par IX- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn \u7843\'3fnh 
+\par - M\'e1y ch\u7909\'3fp \u7843\'3fnh c\'e1c lo\u7841\'3fi
+\par - M\'e1y chi\u7871\'3fu phim
+\par X- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f may m\u7863\'3fc
+\par - M\'e1y may c\'e1c lo\u7841\'3fi 
+\par - M\'e1y v\u7855\'3ft s\u7893\'3f c\'e1c lo\u7841\'3fi
+\par - Thi\u7871\'3ft b\u7883\'3f may m\u7863\'3fc kh\'e1c
+\par XI- M\'e1y m\'f3c, thi\u7871\'3ft b\u7883\'3f qu\u7843\'3fn l\'fd
+\par - M\'e1y t\'ednh quay tay c\'e1c lo\u7841\'3fi 
+\par }{\f38\insrsid15224060\charrsid10623770 - M\'e1y t\'ednh \'f0i}{\f0\insrsid15224060\charrsid10623770 \u7879\'3fn t\u7917\'3f}{\f38\insrsid15224060\charrsid10623770  \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f b\'e0n, b\u7887\'3f t\'fai 
+\par - M\'e1y ch\u7919\'3f c\'e1c lo\u7841\'3fi
+\par - M\'e1y in r\'f4n\'ea\'f4 
+\par - C\'e2n b\'e0n c\'e1c lo\u7841\'3fi
+\par - C\'e2n ph\'e2n t\'edch
+\par - K\'ednh hi\u7875\'3fn vi th\'f4ng d\u7909\'3fng
+\par XII- S\'fac v\u7853\'3ft l\'e0m vi\u7879\'3fc v\'e0 cho s\u7843\'3fn ph\u7849\'3fm
+\par }{\f46\insrsid15224060\charrsid10623770 - L\'f5n n\'e1i, l}{\f0\insrsid15224060\charrsid10623770 \u7907\'3f}{\f38\insrsid15224060\charrsid10623770 n \'f0}{\f0\insrsid15224060\charrsid10623770 \u7921\'3fc gi\u7889\'3fng
+\par - Tr\'e2u b\'f2 c\'e1i, tr\'e2u b\'f2 }{\f38\insrsid15224060\charrsid10623770 \'f0}{\f0\insrsid15224060\charrsid10623770 \u7921\'3fc gi\u7889\'3fng
+\par - D\'ea, c\u7915\'3f}{\f46\insrsid15224060\charrsid10623770 u, h\'fd\'f5u, nai, ch\'f3 s\'e3n 
+\par }{\f0\insrsid15224060\charrsid10623770 - S\'fac v\u7853\'3f}{\f46\insrsid15224060\charrsid10623770 t d\'f9ng \'f0}{\f0\insrsid15224060\charrsid10623770 \u7875\'3f l\'e0m vi\u7879\'3fc 
+\par }{\f38\insrsid15224060\charrsid10623770 XIII- C\'e2y l\'e2u n\'e3m
+\par }{\f0\insrsid15224060\charrsid10623770 - Cao su 
+\par - C\'e0 ph\'ea
+\par - Ch\'e8 
+\par - D\u7915\'3fa, tr\u7849\'3fu, s\u7903\'3f
+\par - H\u7891\'3f ti\'eau  
+\par - Cam, chanh, qu\'edt 
+\par - Nh\'e3n, v\u7843\'3fi, xo\'e0i
+\par }{\f38\insrsid15224060\charrsid10623770 - C\'e2y \'e3n qu}{\f0\insrsid15224060\charrsid10623770 \u7843\'3f kh\'e1c
+\par \cell 
+\par 7
+\par 7 
+\par 
+\par 6 
+\par 8
+\par 7
+\par 5
+\par 
+\par 9
+\par 
+\par 6
+\par 
+\par 
+\par 
+\par 13
+\par 14
+\par 11
+\par 
+\par 12
+\par 10 
+\par 
+\par 15
+\par 12
+\par 
+\par 
+\par 12
+\par 12 
+\par 13
+\par 10
+\par 9
+\par 
+\par 15
+\par 15
+\par 
+\par 8
+\par 8
+\par 7
+\par 7
+\par 7
+\par 5
+\par 
+\par 7
+\par 6
+\par 
+\par 5
+\par 6
+\par 6
+\par 
+\par 6
+\par 10
+\par 7
+\par 10
+\par 10
+\par 8
+\par 6
+\par 
+\par 6
+\par 4
+\par 5
+\par 5
+\par 
+\par 6
+\par 5
+\par 5
+\par 4
+\par 8
+\par 8
+\par 4
+\par 4
+\par \cell 
+\par 5
+\par 5
+\par 
+\par 4
+\par 6
+\par 5
+\par 4
+\par 
+\par 7
+\par 
+\par 4
+\par 
+\par 
+\par 
+\par 9
+\par 9
+\par 7
+\par 
+\par 8
+\par 7
+\par 
+\par 10
+\par 8
+\par 
+\par 
+\par 8
+\par 8
+\par 9
+\par 7
+\par 7
+\par 
+\par 12
+\par 12
+\par 
+\par 5
+\par 5
+\par 5
+\par 5
+\par 5
+\par 4
+\par 
+\par 5
+\par 4
+\par 
+\par 4
+\par 4
+\par 4
+\par 
+\par 4
+\par 8
+\par 5
+\par 7
+\par 7
+\par 5
+\par 4
+\par 
+\par 6
+\par 4
+\par 5
+\par 5
+\par 
+\par 6
+\par 5
+\par 5
+\par 4
+\par 8
+\par 8
+\par 4
+\par 4
+\par \cell 
+\par 2
+\par 2 
+\par 
+\par 2
+\par 2
+\par 2
+\par 1
+\par 
+\par 2
+\par 
+\par 2
+\par 
+\par 
+\par 
+\par 4
+\par 5
+\par 4
+\par 
+\par 4
+\par 3
+\par 
+\par 5
+\par 4
+\par 
+\par 
+\par 4
+\par 4
+\par 4
+\par 3
+\par 2
+\par 
+\par 3
+\par 3
+\par 
+\par 3
+\par 3
+\par 2
+\par 2
+\par 2
+\par 1
+\par 
+\par 2
+\par 2
+\par 
+\par 1
+\par 2
+\par 2
+\par 
+\par 2
+\par 2
+\par 2
+\par 3
+\par 3
+\par 3
+\par 2
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f0\insrsid15224060\charrsid10623770 \trowd \irow3\irowband3\lastrow \ts11\trgaph108\trleft0\trbrdrt\brdrs\brdrw15\brdrcf2 \trbrdrl\brdrs\brdrw15\brdrcf2 \trbrdrb
+\brdrs\brdrw15\brdrcf2 \trbrdrr\brdrs\brdrw15\brdrcf2 \trbrdrh\brdrs\brdrw15\brdrcf2 \trbrdrv\brdrs\brdrw15\brdrcf2 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb
+\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth4962\clshdrawnil \cellx4962\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 
+\cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx6147\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1185\clshdrawnil \cellx7332
+\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf2 \clbrdrl\brdrs\brdrw15\brdrcf2 \clbrdrb\brdrs\brdrw15\brdrcf2 \clbrdrr\brdrs\brdrw15\brdrcf2 \cltxlrtb\clftsWidth3\clwWidth1316\clshdrawnil \cellx8648\row }\pard 
+\qj \fi567\li0\ri0\sa120\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f0\insrsid15224060\charrsid10623770  
+\par 
+\par }}
